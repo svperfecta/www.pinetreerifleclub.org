@@ -1,0 +1,19 @@
+---
+layout: base.njk
+permalink: missing-content.html
+title: Unavailable files — Pine Tree Rifle Club
+description: Original club files that could not be recovered.
+hasHeading: true
+historical: true
+---
+<div class="directory">
+<h1>Unavailable files</h1>
+<p>These files were linked from the original pages, but a usable copy could not be recovered. Their contents have not been recreated or substituted.</p>
+{% for item in recovered.missing %}
+<section id="{{ item.id }}">
+  <h2>{{ item.file }}</h2>
+  <p>This original file is unavailable.</p>
+  <ul>{% for source in item.pages %}<li><a href="{{ source | relativeTo(page.url) }}">Return to {{ source }}</a></li>{% endfor %}</ul>
+</section>
+{% endfor %}
+</div>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title or site.name }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="canonical" href="{{ page.url | absoluteUrl(site.url) }}">
+  {% if historical %}<meta name="robots" content="noindex, follow">{% endif %}
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ title or site.name }}">
+  <meta property="og:description" content="{{ description or site.description }}">
+  <meta property="og:url" content="{{ page.url | absoluteUrl(site.url) }}">
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:image" content="{{ 'pics/clubhouse5.jpg' | absoluteUrl(site.url) }}">
+  <meta property="og:image:alt" content="Pine Tree Rifle Club clubhouse in Johnstown, New York">
+  {{ legacyHead | safe }}
+  <link rel="stylesheet" href="{{ 'assets/legacy.css' | relativeTo(page.url) }}">
+  <link rel="stylesheet" href="{{ 'assets/restoration.css' | relativeTo(page.url) }}">
+  <link rel="icon" type="image/jpeg" href="{{ 'store/storelogopatch.jpg' | relativeTo(page.url) }}">
+</head>
+<body data-page="{{ page.url }}"{% if legacyBodyClass %} class="{{ legacyBodyClass }}"{% endif %}>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  {% if isHome %}
+  <header>{% include "home-header.njk" %}</header>
+  {% else %}
+  <nav class="site-links" aria-label="Site navigation">
+    <a href="{{ 'index.html' | relativeTo(page.url) }}">Pine Tree Rifle Club home</a>
+    <a href="{{ 'site-directory.html' | relativeTo(page.url) }}">Site directory</a>
+  </nav>
+  {% endif %}
+  <main id="main-content" tabindex="-1">
+    {% if not hasHeading and not isHome %}<h1 class="visually-hidden">{{ title }}</h1>{% endif %}
+    {{ content | safe }}
+  </main>
+  <footer class="site-links">
+    <a href="{{ 'index.html' | relativeTo(page.url) }}">Home</a>
+    <a href="{{ 'site-directory.html' | relativeTo(page.url) }}">Site directory</a>
+  </footer>
+</body>
+</html>

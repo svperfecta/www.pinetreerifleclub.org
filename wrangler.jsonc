@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pine-tree-rifle-club",
+  "main": "./src/worker.ts",
+  "compatibility_date": "2026-10-04",
+  "compatibility_flags": ["nodejs_compat"],
+  "d1_databases": [{ "binding": "DB", "database_name": "pine-tree-rifle-club" }],
+  "r2_buckets": [{ "binding": "MEDIA", "bucket_name": "pine-tree-rifle-club-media" }],
+  "triggers": { "crons": ["* * * * *"] }
+}

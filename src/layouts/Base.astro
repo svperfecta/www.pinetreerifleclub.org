@@ -1,0 +1,46 @@
+---
+import header from '../components/home-header.html?raw';
+const { page } = Astro.props;
+const route = '/' + page.path;
+const directory = page.path.split('/').slice(0, -1);
+const relative = (target) => '../'.repeat(directory.length) + target;
+const origin = import.meta.env.SITE_URL || Astro.url.origin + '/';
+const absolute = (target) => new URL(target, origin).href;
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{page.title}</title>
+  <meta name="description" content={page.description} />
+  <link rel="canonical" href={absolute(page.path)} />
+  {page.historical && <meta name="robots" content="noindex, follow" />}
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content={page.title} />
+  <meta property="og:description" content={page.description} />
+  <meta property="og:url" content={absolute(page.path)} />
+  <meta property="og:site_name" content="Pine Tree Rifle Club" />
+  <meta property="og:image" content={absolute('pics/clubhouse5.jpg')} />
+  <meta property="og:image:alt" content="Pine Tree Rifle Club clubhouse in Johnstown, New York" />
+  <Fragment set:html={page.head} />
+  <link rel="stylesheet" href={relative('assets/legacy.css')} />
+  <link rel="stylesheet" href={relative('assets/restoration.css')} />
+  <link rel="icon" type="image/jpeg" href={relative('store/storelogopatch.jpg')} />
+</head>
+<body data-page={route} class={page.body_class || undefined}>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  {page.home ? <header set:html={header} /> : <nav class="site-links" aria-label="Site navigation">
+    <a href={relative('index.html')}>Pine Tree Rifle Club home</a>
+    <a href={relative('site-directory.html')}>Site directory</a>
+  </nav>}
+  <main id="main-content" tabindex="-1">
+    {!page.has_heading && !page.home && <h1 class="visually-hidden">{page.title}</h1>}
+    <Fragment set:html={page.body} />
+  </main>
+  <footer class="site-links">
+    <a href={relative('index.html')}>Home</a>
+    <a href={relative('site-directory.html')}>Site directory</a>
+  </footer>
+</body>
+</html>

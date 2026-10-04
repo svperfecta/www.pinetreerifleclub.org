@@ -1,0 +1,39 @@
+{
+  "name": "pine-tree-rifle-club",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A local restoration of the Pine Tree Rifle Club website",
+  "scripts": {
+    "build": "node scripts/prepare-assets.mjs && astro build",
+    "dev": "node scripts/prepare-assets.mjs && astro dev",
+    "build:offline": "node scripts/prepare-assets.mjs && OFFLINE_EXPORT=1 astro build && node scripts/finish-offline.mjs",
+    "check": "python3 scripts/check_site.py _site",
+    "validate": "html-validate \"_site/**/*.html\" \"_site/**/*.htm\"",
+    "audit": "node scripts/audit.mjs",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.13.0",
+    "cheerio": "^1.2.0",
+    "html-validate": "^11.16.2",
+    "js-yaml": "^4.3.2",
+    "nunjucks": "3.2.4",
+    "playwright": "^1.63.0"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^14.3.3",
+    "@astrojs/react": "^7.0.0",
+    "@emdash-cms/cloudflare": "^1.1.0",
+    "astro": "^7.3.5",
+    "emdash": "^1.1.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "wrangler": "^4.147.0"
+  },
+  "emdash": {
+    "seed": "seed/seed.json"
+  },
+  "engines": {
+    "node": ">=22.16.0"
+  }
+}

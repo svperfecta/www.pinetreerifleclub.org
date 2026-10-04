@@ -1,0 +1,24 @@
+---
+layout: base.njk
+permalink: site-directory.html
+title: Site directory — Pine Tree Rifle Club
+description: All recovered Pine Tree Rifle Club pages, photographs, newsletters, forms, and documents.
+hasHeading: true
+---
+<div class="directory">
+<h1>Site directory</h1>
+<p>Club pages and documents, including material from earlier years. Check the dates on schedules, applications, and event information.</p>
+<h2>Pages</h2>
+<ul>
+{% for item in recovered.pages %}
+  <li><a href="{{ item.path | relativeTo(page.url) }}">{{ item.title }}</a>{% if item.historical %} <small>(historical)</small>{% endif %}</li>
+{% endfor %}
+</ul>
+<h2>Photographs, newsletters, forms, and other files</h2>
+<ul>
+{% for asset in recovered.assets %}
+  <li><a href="{{ asset | relativeTo(page.url) }}">{{ asset }}</a></li>
+{% endfor %}
+</ul>
+{% if recovered.missing.length %}<p><a href="missing-content.html">Files that could not be recovered</a></p>{% endif %}
+</div>

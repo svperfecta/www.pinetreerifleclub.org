@@ -1,0 +1,27 @@
+---
+import Base from '../layouts/Base.astro';
+import recovered from '../content/recovered.json';
+import { getEmDashEntry, getEmDashCollection } from 'emdash';
+export const prerender = import.meta.env.OFFLINE_EXPORT === '1';
+export function getStaticPaths() {
+  return recovered.map(entry => ({ params: { path: entry.data.path }, props: { page: entry.data } }));
+}
+let page = Astro.props.page;
+if (!page) {
+  const path = decodeURIComponent(Astro.params.path || 'index.html');
+  const reference = recovered.find(entry => entry.data.path === path);
+  if (reference) {
+    const result = await getEmDashEntry('pages', reference.slug);
+    if (result.error) throw result.error;
+    page = result.entry?.data;
+    if (page && page.path !== path) page = undefined;
+  }
+  if (!page) {
+    const result = await getEmDashCollection('pages', { where: { path }, limit: 1 });
+    if (result.error) throw result.error;
+    page = result.entries?.[0]?.data;
+  }
+  if (!page) { Astro.response.status = 404; page = recovered.find(entry => entry.data.path === '404.html').data; }
+}
+---
+<Base page={page} />

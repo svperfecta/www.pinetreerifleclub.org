@@ -1,0 +1,530 @@
+{
+  "missing": [
+    {
+      "file": "A1.jpg",
+      "id": "73d99ab1c2df",
+      "pages": [
+        "Fireside.html"
+      ]
+    },
+    {
+      "file": "DSC00762.JPG",
+      "id": "d81c2b4d3d08",
+      "pages": [
+        "Fireside.html"
+      ]
+    },
+    {
+      "file": "Gary Stoller.JPG",
+      "id": "defe17147c8a",
+      "pages": [
+        "Member News.html"
+      ]
+    },
+    {
+      "file": "RaffleWinner.JPG",
+      "id": "dc555b441499",
+      "pages": [
+        "Raffle.html"
+      ]
+    },
+    {
+      "file": "activities/20213darchery.jpg",
+      "id": "ec20ec495205",
+      "pages": [
+        "activities/3Darchery.html"
+      ]
+    },
+    {
+      "file": "activities/ppsl/Safety Check USPS.pdf",
+      "id": "7069e188103e",
+      "pages": [
+        "activities/ppsl/ppsl.html"
+      ]
+    },
+    {
+      "file": "activities/ptrcfd.jpg",
+      "id": "79741ff66850",
+      "pages": [
+        "activities/ptrcfs.html"
+      ]
+    },
+    {
+      "file": "admin/cover.jpg",
+      "id": "38c1d18b356e",
+      "pages": [
+        "admin/newsletter02272015.html",
+        "admin/ptrcnewsletter.html"
+      ]
+    },
+    {
+      "file": "centerfire/ibs1005122018.pdf",
+      "id": "3cdfe1ee9934",
+      "pages": [
+        "centerfire/cfire2019.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/05312014.html",
+      "id": "bf876de43031",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/06282014.html",
+      "id": "60acc2d19895",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/7262014.html",
+      "id": "ce68a5f4b2a2",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/830312014report.html",
+      "id": "fd28b72d737b",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/d2014.html",
+      "id": "e4929cdc3fd5",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibs2014an.pdf",
+      "id": "cc3a62b6ee6e",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibs830100yd.html",
+      "id": "5cc9a4d96e62",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibs831200yd.html",
+      "id": "6aea449668f5",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibsga.html",
+      "id": "e94bb27565b2",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibsregform.pdf",
+      "id": "3a9d2fdfbbcf",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibsrelform.pdf",
+      "id": "ba32733fa461",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ptrc2014an.pdf",
+      "id": "6d3ec3cf0020",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ptrcbenchrest830312014.html",
+      "id": "c1d36d335c18",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/range (640x410).jpg",
+      "id": "2bfcb55c59bf",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2015/ibsinfo2015.pdf",
+      "id": "ea9f9a62f428",
+      "pages": [
+        "centerfire2015/cfire2015.html"
+      ]
+    },
+    {
+      "file": "centerfire2015/ibsregform.pdf",
+      "id": "e87ce10b29cd",
+      "pages": [
+        "centerfire2015/cfire2015.html"
+      ]
+    },
+    {
+      "file": "centerfire2015/ibsrelform.pdf",
+      "id": "6d76d8ac94f4",
+      "pages": [
+        "centerfire2015/cfire2015.html"
+      ]
+    },
+    {
+      "file": "centerfire2016/ibsinfo2015.pdf",
+      "id": "ad02ad175f6d",
+      "pages": [
+        "centerfire2016/cfire2016.html"
+      ]
+    },
+    {
+      "file": "centerfire2016/ibsregform.pdf",
+      "id": "b2c9ca8554e1",
+      "pages": [
+        "centerfire2016/cfire2016.html"
+      ]
+    },
+    {
+      "file": "centerfire2016/ibsrelform.pdf",
+      "id": "c4a5ac8b0150",
+      "pages": [
+        "centerfire2016/cfire2016.html"
+      ]
+    },
+    {
+      "file": "events/201309schuetzenfest.jpg",
+      "id": "c28d31b893b6",
+      "pages": [
+        "events/schutzenfest.html"
+      ]
+    },
+    {
+      "file": "events/2015schuetzenf.jpg",
+      "id": "d3dda5bfa3e1",
+      "pages": [
+        "events/schutzenfest.html"
+      ]
+    },
+    {
+      "file": "events/K9/flyerK92026.jpg",
+      "id": "7f4d244f91e5",
+      "pages": [
+        "events/K9/pinflyerK92026.htm"
+      ]
+    },
+    {
+      "file": "events/K9/flyerk92026b.jpg",
+      "id": "13053d88214c",
+      "pages": [
+        "events/K9/pinflyerK92026.htm"
+      ]
+    },
+    {
+      "file": "events/K92015.jpg",
+      "id": "dd910763558b",
+      "pages": [
+        "events/k9ride.html"
+      ]
+    },
+    {
+      "file": "events/K92015pin.jpg",
+      "id": "c4222b607d81",
+      "pages": [
+        "events/k9ride.html"
+      ]
+    },
+    {
+      "file": "fireside/pics/patch1985 (599x640).jpg",
+      "id": "b9379ce44c8e",
+      "pages": [
+        "fireside/082014.html"
+      ]
+    },
+    {
+      "file": "fireside/pics/patch1987 (637x640).jpg",
+      "id": "6836c7365e76",
+      "pages": [
+        "fireside/082014.html"
+      ]
+    },
+    {
+      "file": "pics/1955.jpg",
+      "id": "9607c50a8b08",
+      "pages": [
+        "fireside/keith.html"
+      ]
+    },
+    {
+      "file": "pics/1955A.jpg",
+      "id": "d2977f4bbf2e",
+      "pages": [
+        "fireside/keith.html"
+      ]
+    },
+    {
+      "file": "pics/OCT16countrynightposter.jpg",
+      "id": "e8c2b47a42c3",
+      "pages": [
+        "activities/countrynight.html"
+      ]
+    },
+    {
+      "file": "pics/hitler.jpg",
+      "id": "3244672a2430",
+      "pages": [
+        "admin/newsboard.html"
+      ]
+    },
+    {
+      "file": "pics/pc1award.jpg",
+      "id": "1532ca7dd135",
+      "pages": [
+        "admin/newsboard.html"
+      ]
+    },
+    {
+      "file": "pics/pcaward.jpg",
+      "id": "01f71b587693",
+      "pages": [
+        "admin/newsboard.html"
+      ]
+    },
+    {
+      "file": "pics/shotgunframe.jpg",
+      "id": "ba642f94bc01",
+      "pages": [
+        "admin/shotgun.html"
+      ]
+    },
+    {
+      "file": "rimfire/2025brlsch.htm",
+      "id": "4abb2cec1fb6",
+      "pages": [
+        "rimfire/rimfire.htm"
+      ]
+    }
+  ],
+  "omitted": [
+    {
+      "page": "Oktoberfest.html",
+      "reason": "Removed original editor's temporary file dependency"
+    },
+    {
+      "page": "Oktoberfest.html",
+      "reason": "Removed original editor's temporary file dependency"
+    },
+    {
+      "page": "Oktoberfest.html",
+      "reason": "Removed original editor's temporary file dependency"
+    },
+    {
+      "page": "Oktoberfest.html",
+      "reason": "Removed original editor's temporary file dependency"
+    },
+    {
+      "page": "activities/skeet.html",
+      "file": "activities/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "admin/board.html",
+      "file": "admin/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "admin/life.html",
+      "file": "admin/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "admin/missionstatement.html",
+      "file": "admin/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "admin/ptrcmap.html",
+      "file": "admin/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "admin/rangesch.html",
+      "file": "admin/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "admin/srr.html",
+      "file": "admin/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "centerfire/cfire2019.html",
+      "file": "centerfire/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "centerfire/cfire2020.html",
+      "file": "centerfire/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "centerfire2014/cfire2014.html",
+      "reason": "Retired visitor counter omitted"
+    },
+    {
+      "page": "centerfire2014/cfire2014.html",
+      "file": "centerfire2014/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "centerfire2015/cfire2015.html",
+      "reason": "Retired visitor counter omitted"
+    },
+    {
+      "page": "centerfire2015/cfire2015.html",
+      "file": "centerfire2015/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "centerfire2016/cfire2016.html",
+      "file": "centerfire2016/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/082014.html",
+      "file": "fireside/082014_files/filelist.xml",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/082014.html",
+      "file": "fireside/082014_files/themedata.thmx",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/082014.html",
+      "file": "fireside/082014_files/colorschememapping.xml",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/22rimfirehistory.html",
+      "file": "fireside/22rimfirehistory_files/filelist.xml",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/22rimfirehistory.html",
+      "file": "fireside/22rimfirehistory_files/preview.wmf",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/22rimfirehistory.html",
+      "file": "fireside/22rimfirehistory_files/themedata.thmx",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/22rimfirehistory.html",
+      "file": "fireside/22rimfirehistory_files/colorschememapping.xml",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/fireside.html",
+      "file": "fireside/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "fireside/keith.html",
+      "reason": "Removed original editor's temporary file dependency"
+    },
+    {
+      "page": "fireside/keith.html",
+      "reason": "Removed original editor's temporary file dependency"
+    },
+    {
+      "page": "fireside/keith.html",
+      "reason": "Removed original editor's temporary file dependency"
+    },
+    {
+      "page": "fireside/keith.html",
+      "reason": "Removed original editor's temporary file dependency"
+    },
+    {
+      "page": "fireside/keith.html",
+      "file": "fireside/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "pics/index.html",
+      "reason": "Apache directory listing retained only in preservation files"
+    },
+    {
+      "page": "pistol/pistol.html",
+      "file": "pistol/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "programs/deccamp.html",
+      "file": "programs/Www.dec.ny.gov",
+      "reason": "Corrected missing scheme on DEC website link"
+    },
+    {
+      "page": "programs/deccamp.html",
+      "file": "programs/Www.dec.ny.gov",
+      "reason": "Corrected missing scheme on DEC website link"
+    },
+    {
+      "page": "programs/nrapistolcourse.html",
+      "file": "programs/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "programs/nrapistolcourseblend.html",
+      "file": "programs/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "programs/nrapistolcourseil.html",
+      "file": "programs/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "programs/ppc.html",
+      "file": "programs/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "programs/scholarship.html",
+      "file": "programs/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "programs/toys.html",
+      "file": "programs/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "page": "programs/wot.html",
+      "file": "programs/style.css",
+      "reason": "Missing original stylesheet"
+    },
+    {
+      "file": "style.css",
+      "reason": "Extracted CSS rules from malformed original HTML stylesheet"
+    },
+    {
+      "page": "travelleaguerifle/trl.html",
+      "file": "travelleaguerifle/style.css",
+      "reason": "Missing original stylesheet"
+    }
+  ]
+}

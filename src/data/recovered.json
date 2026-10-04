@@ -1,0 +1,1211 @@
+{
+  "pages": [
+    {
+      "path": "3D Results.html",
+      "title": "3D Results \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/3D Results.njk"
+    },
+    {
+      "path": "3D/3D.html",
+      "title": "PTRC 3D Archery Schedule 2025 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "3D/3D.njk"
+    },
+    {
+      "path": "Board.html",
+      "title": "Board \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/Board.njk"
+    },
+    {
+      "path": "CurrentMonth.html",
+      "title": "Current Month \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/CurrentMonth.njk"
+    },
+    {
+      "path": "Fireside.html",
+      "title": "Fireside \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/Fireside.njk"
+    },
+    {
+      "path": "History.html",
+      "title": "History \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/History.njk"
+    },
+    {
+      "path": "Member News.html",
+      "title": "Member News \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/Member News.njk"
+    },
+    {
+      "path": "Newsletter.html",
+      "title": "Newsletter \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/Newsletter.njk"
+    },
+    {
+      "path": "Oktoberfest.html",
+      "title": "Oktoberfest \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/Oktoberfest.njk"
+    },
+    {
+      "path": "Raffle.html",
+      "title": "Raffle \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/Raffle.njk"
+    },
+    {
+      "path": "Related.html",
+      "title": "Related \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/Related.njk"
+    },
+    {
+      "path": "Schedule.html",
+      "title": "Schedule \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "history/legacy/Schedule.njk"
+    },
+    {
+      "path": "activities/3Darchery.html",
+      "title": "PTRC 3D Archery \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "activities/3Darchery.njk"
+    },
+    {
+      "path": "activities/countrynight.html",
+      "title": "PTRC Country Night 2016 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "activities/countrynight.njk"
+    },
+    {
+      "path": "activities/ppsl.html",
+      "title": "PTRC Practical Pistol Shooting League \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "activities/ppsl.njk"
+    },
+    {
+      "path": "activities/ppsl/ppsl.html",
+      "title": "PTRC Practical Pistol Shooting \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "activities/ppsl/ppsl.njk"
+    },
+    {
+      "path": "activities/ptrcfs.html",
+      "title": "Pine Tree Rifle Club FUN SHOOTS",
+      "historical": false,
+      "source": "activities/ptrcfs.njk"
+    },
+    {
+      "path": "activities/skeet.html",
+      "title": "Skeet \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "activities/skeet.njk"
+    },
+    {
+      "path": "activities/steel/ptrcsteelguidelines.html",
+      "title": "PTRC STEEL \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "activities/steel/ptrcsteelguidelines.njk"
+    },
+    {
+      "path": "activities/trap.html",
+      "title": "Trap \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "activities/trap.njk"
+    },
+    {
+      "path": "admin/2015raffle.html",
+      "title": "2015 Annual Raffle \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "administration/2015raffle.njk"
+    },
+    {
+      "path": "admin/2016raffle.html",
+      "title": "2016 Annual Raffle \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "administration/2016raffle.njk"
+    },
+    {
+      "path": "admin/2021raffle.html",
+      "title": "2021 Annual Raffle \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "administration/2021raffle.njk"
+    },
+    {
+      "path": "admin/2022raffle.html",
+      "title": "2022 Annual Raffle \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "administration/2022raffle.njk"
+    },
+    {
+      "path": "admin/2023raffle.html",
+      "title": "2023 Annual Raffle \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "administration/2023raffle.njk"
+    },
+    {
+      "path": "admin/2024raffle.html",
+      "title": "2024 Annual Raffle \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "administration/2024raffle.njk"
+    },
+    {
+      "path": "admin/2025raffle.html",
+      "title": "2025 Annual Raffle \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/2025raffle.njk"
+    },
+    {
+      "path": "admin/2026raffle.html",
+      "title": "2026 Annual Raffle \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/2026raffle.njk"
+    },
+    {
+      "path": "admin/board.html",
+      "title": "OFFICERS/TRUSTEES/COMMITTEES \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/board.njk"
+    },
+    {
+      "path": "admin/clover/Payment Center.htm",
+      "title": "Secure online payment for membership \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/clover/Payment Center.njk"
+    },
+    {
+      "path": "admin/feedback.html",
+      "title": "Feedback Form \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/feedback.njk"
+    },
+    {
+      "path": "admin/history.html",
+      "title": "Club History \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/history.njk"
+    },
+    {
+      "path": "admin/life.html",
+      "title": "Newest LIFE Member \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/life.njk"
+    },
+    {
+      "path": "admin/missionstatement.html",
+      "title": "Mission Statement \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/missionstatement.njk"
+    },
+    {
+      "path": "admin/mr.html",
+      "title": "Membership Requirememts \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/mr.njk"
+    },
+    {
+      "path": "admin/newsboard.html",
+      "title": "Pine Tree Rifle Club News Board",
+      "historical": false,
+      "source": "administration/newsboard.njk"
+    },
+    {
+      "path": "admin/newsletter02272015.html",
+      "title": "PTRC Newsletter 02272015 \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "administration/newsletter02272015.njk"
+    },
+    {
+      "path": "admin/oathof.html",
+      "title": "OATH OF \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/oathof.njk"
+    },
+    {
+      "path": "admin/ptrcmap.html",
+      "title": "PTRC Property Map \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/ptrcmap.njk"
+    },
+    {
+      "path": "admin/ptrcms.html",
+      "title": "PTRC Membership Secertary \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/ptrcms.njk"
+    },
+    {
+      "path": "admin/ptrcnewsletter.html",
+      "title": "PTRC Newsletter \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/ptrcnewsletter.njk"
+    },
+    {
+      "path": "admin/rangesch.html",
+      "title": "Range Schedule \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/rangesch.njk"
+    },
+    {
+      "path": "admin/shotgun.html",
+      "title": "PTRC Shotgun pattern frame \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/shotgun.njk"
+    },
+    {
+      "path": "admin/specialevent.html",
+      "title": "SPECIAL EVENT \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/specialevent.njk"
+    },
+    {
+      "path": "admin/srr.html",
+      "title": "Safety Rules and Regulations \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "administration/srr.njk"
+    },
+    {
+      "path": "calendar.html",
+      "title": "Calendar \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "calendar.njk"
+    },
+    {
+      "path": "centerfire/centerfire.html",
+      "title": "CENTERFIRE RIFLE 2026 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/centerfire/centerfire.njk"
+    },
+    {
+      "path": "centerfire/cfire2019.html",
+      "title": "Pine Tree Rifle Club Centerfire/IBS",
+      "historical": true,
+      "source": "competitions/centerfire/cfire2019.njk"
+    },
+    {
+      "path": "centerfire/cfire2020.html",
+      "title": "Pine Tree Rifle Club Centerfire/IBS",
+      "historical": true,
+      "source": "competitions/centerfire/cfire2020.njk"
+    },
+    {
+      "path": "centerfire2014/cfire2014.html",
+      "title": "Pine Tree Rifle Club Centerfire 2014",
+      "historical": true,
+      "source": "centerfire2014/cfire2014.njk"
+    },
+    {
+      "path": "centerfire2015/cfire2015.html",
+      "title": "Pine Tree Rifle Club Centerfire 2015",
+      "historical": true,
+      "source": "centerfire2015/cfire2015.njk"
+    },
+    {
+      "path": "centerfire2016/cfire2016.html",
+      "title": "Pine Tree Rifle Club Centerfire 2016",
+      "historical": true,
+      "source": "centerfire2016/cfire2016.njk"
+    },
+    {
+      "path": "events/2026swapshop.html",
+      "title": "SWAP SHOP 2026 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "events/2026swapshop.njk"
+    },
+    {
+      "path": "events/K9/pinflyerK92026.htm",
+      "title": "PTRCK9 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "events/K9/pinflyerK92026.njk"
+    },
+    {
+      "path": "events/annvetsdinner.htm",
+      "title": "Annual Veterans Dinner \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "events/annvetsdinner.njk"
+    },
+    {
+      "path": "events/bikerun.htm",
+      "title": "PTRC's K9 Shirt Supporters \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "events/bikerun.njk"
+    },
+    {
+      "path": "events/k9ride.html",
+      "title": "PINE TREE RIFLE CLUB K9 RIDE",
+      "historical": false,
+      "source": "events/k9ride.njk"
+    },
+    {
+      "path": "events/schutzenfest.html",
+      "title": "SCHUTZENFEST Pine Tree Rifle Club",
+      "historical": false,
+      "source": "events/schutzenfest.njk"
+    },
+    {
+      "path": "events/swapshop.html",
+      "title": "Pine Tree Rifle Club Swap Shop",
+      "historical": false,
+      "source": "events/swapshop.njk"
+    },
+    {
+      "path": "events/vets.html",
+      "title": "Pine Tree Rifle Clubs Annual VETERANS Dinner",
+      "historical": false,
+      "source": "events/vets.njk"
+    },
+    {
+      "path": "events/youthprograms.htm",
+      "title": "Youth Programs \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "events/youthprograms.njk"
+    },
+    {
+      "path": "fireside/082014.html",
+      "title": "It\u2019s been sometime since I\u2019ve put together anything for the Fireside at the Pine Tree",
+      "historical": true,
+      "source": "history/fireside/082014.njk"
+    },
+    {
+      "path": "fireside/22rimfirehistory.html",
+      "title": "22rimfirehistory \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "history/fireside/22rimfirehistory.njk"
+    },
+    {
+      "path": "fireside/fireside.html",
+      "title": "FIRESIDE PTRC \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "history/fireside/fireside.njk"
+    },
+    {
+      "path": "fireside/keith.html",
+      "title": "keith \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "history/fireside/keith.njk"
+    },
+    {
+      "path": "fireside/wildcat.html",
+      "title": "wildcat \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "history/fireside/wildcat.njk"
+    },
+    {
+      "path": "index.html",
+      "title": "Pine Tree Rifle Club",
+      "historical": false,
+      "source": "home.njk"
+    },
+    {
+      "path": "newsletter/ptrcnewsletter.html",
+      "title": "Newsletter \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "newsletter/ptrcnewsletter.njk"
+    },
+    {
+      "path": "pistol/2024summerpistol.htm",
+      "title": "2024 Summer Pistol League \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "competitions/pistol/2024summerpistol-htm.njk"
+    },
+    {
+      "path": "pistol/2024summerpistol.html",
+      "title": "2024 Summer Pistol League \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "competitions/pistol/2024summerpistol.njk"
+    },
+    {
+      "path": "pistol/2024summerscores.html",
+      "title": "PTRC SUMMER Bullseye PISTOL LEAGUE SCORES \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "competitions/pistol/2024summerscores.njk"
+    },
+    {
+      "path": "pistol/2025summerleaguescorespistol.html",
+      "title": "2025summerpistoleagescores \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/2025summerleaguescorespistol.njk"
+    },
+    {
+      "path": "pistol/2025summerpistol.html",
+      "title": "2025 Summer Pistol League \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/2025summerpistol.njk"
+    },
+    {
+      "path": "pistol/45acpchallenge.html",
+      "title": "45acpchallenge \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/45acpchallenge.njk"
+    },
+    {
+      "path": "pistol/pistol.html",
+      "title": "PINE TREE RIFLE CLUB Pistol League",
+      "historical": false,
+      "source": "competitions/pistol/pistol.njk"
+    },
+    {
+      "path": "pistol/pistol2.html",
+      "title": "pistol2 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/pistol2.njk"
+    },
+    {
+      "path": "pistol/pistol201415.html",
+      "title": "Pine Tree Rifle CLub Pistol League 2013/14",
+      "historical": true,
+      "source": "competitions/pistol/pistol201415.njk"
+    },
+    {
+      "path": "pistol/pistol201516.html",
+      "title": "Pine Tree Rifle CLub Pistol League 2013/14",
+      "historical": true,
+      "source": "competitions/pistol/pistol201516.njk"
+    },
+    {
+      "path": "pistol/pistol201920.html",
+      "title": "Pine Tree Rifle CLub Bullseye Pistol League 2017/18",
+      "historical": true,
+      "source": "competitions/pistol/pistol201920.njk"
+    },
+    {
+      "path": "pistol/pistol202021.html",
+      "title": "Pine Tree Rifle CLub Bullseye Pistol League 2020/21",
+      "historical": true,
+      "source": "competitions/pistol/pistol202021.njk"
+    },
+    {
+      "path": "pistol/pistol202122.html",
+      "title": "Pine Tree Rifle CLub Bullseye Pistol League 2021/22",
+      "historical": true,
+      "source": "competitions/pistol/pistol202122.njk"
+    },
+    {
+      "path": "pistol/pistol202223.html",
+      "title": "Pine Tree Rifle CLub Bullseye Pistol League 2022/23",
+      "historical": true,
+      "source": "competitions/pistol/pistol202223.njk"
+    },
+    {
+      "path": "pistol/pistol202324.html",
+      "title": "Pine Tree Rifle CLub Bullseye Pistol League 2023/24",
+      "historical": true,
+      "source": "competitions/pistol/pistol202324.njk"
+    },
+    {
+      "path": "pistol/pistol202425.html",
+      "title": "Pine Tree Rifle CLub Bullseye Pistol League 2023/24",
+      "historical": true,
+      "source": "competitions/pistol/pistol202425.njk"
+    },
+    {
+      "path": "pistol/pistol202526.html",
+      "title": "Bullseye Pistol League Info \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/pistol202526.njk"
+    },
+    {
+      "path": "pistol/pistol3.html",
+      "title": "pistol2 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/pistol3.njk"
+    },
+    {
+      "path": "pistol/pistol4.html",
+      "title": "pistol2 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/pistol4.njk"
+    },
+    {
+      "path": "pistol/pistol5.html",
+      "title": "pistol2 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/pistol5.njk"
+    },
+    {
+      "path": "pistol/pistol6.html",
+      "title": "WINTER Bullseye Pistol League Scores \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/pistol/pistol6.njk"
+    },
+    {
+      "path": "programs/2020classes.html",
+      "title": "2020 Training Classes \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "programs/2020classes.njk"
+    },
+    {
+      "path": "programs/2021classes.html",
+      "title": "2021 Training Classes \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "programs/2021classes.njk"
+    },
+    {
+      "path": "programs/2022classes.html",
+      "title": "2022 Training Classes \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "programs/2022classes.njk"
+    },
+    {
+      "path": "programs/2023classes.html",
+      "title": "2023 Training Classes \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "programs/2023classes.njk"
+    },
+    {
+      "path": "programs/2024classes.html",
+      "title": "2024 Training Classes \u2014 Pine Tree Rifle Club",
+      "historical": true,
+      "source": "programs/2024classes.njk"
+    },
+    {
+      "path": "programs/2025classes.html",
+      "title": "2025 Training Classes \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/2025classes.njk"
+    },
+    {
+      "path": "programs/2026classes.html",
+      "title": "2026 Training Classes \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/2026classes.njk"
+    },
+    {
+      "path": "programs/decbowsafety.html",
+      "title": "DEC Bow Hunter ED \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/decbowsafety.njk"
+    },
+    {
+      "path": "programs/deccamp.html",
+      "title": "PTRC Scholarships to DEC Sportsman Camp \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/deccamp.njk"
+    },
+    {
+      "path": "programs/dechuntsafety.htm",
+      "title": "DEC Hunter ED \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/dechuntsafety.njk"
+    },
+    {
+      "path": "programs/dvd.html",
+      "title": "PTRC ED \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/dvd.njk"
+    },
+    {
+      "path": "programs/mcr.html",
+      "title": "NRA Metallic Cartridge Reloading \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/mcr.njk"
+    },
+    {
+      "path": "programs/nrahfs.html",
+      "title": "NRA Firearm Safety \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/nrahfs.njk"
+    },
+    {
+      "path": "programs/nrapistolcourse.html",
+      "title": "NRA Basic Pistol Course - Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/nrapistolcourse.njk"
+    },
+    {
+      "path": "programs/nrapistolcourseblend.html",
+      "title": "NRA Basic Pistol Course - Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/nrapistolcourseblend.njk"
+    },
+    {
+      "path": "programs/nrapistolcourseil.html",
+      "title": "NRA Basic Pistol Instructor Led Training \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/nrapistolcourseil.njk"
+    },
+    {
+      "path": "programs/nrariflecourse.html",
+      "title": "NRA Basic Rifle \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/nrariflecourse.njk"
+    },
+    {
+      "path": "programs/nrashotguncourse.html",
+      "title": "NRA Basic Shotgun \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/nrashotguncourse.njk"
+    },
+    {
+      "path": "programs/ppc.html",
+      "title": "Pistol License Class \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/ppc.njk"
+    },
+    {
+      "path": "programs/ptrcl4.html",
+      "title": "PTRC LEVEL \u201c4\u201d DEFENSIVE SHOOTING \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/ptrcl4.njk"
+    },
+    {
+      "path": "programs/rso.html",
+      "title": "NRA Range Safety Officer \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/rso.njk"
+    },
+    {
+      "path": "programs/rsocourse01.html",
+      "title": "Pine Tree Rifle Club - NRA Range Safety Officer Course",
+      "historical": false,
+      "source": "programs/rsocourse01.njk"
+    },
+    {
+      "path": "programs/rtbav.html",
+      "title": "NRA Refuse to be A Victim \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/rtbav.njk"
+    },
+    {
+      "path": "programs/scholarship.html",
+      "title": "PTRC SCHOLARSHIP FUND \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/scholarship.njk"
+    },
+    {
+      "path": "programs/toys.html",
+      "title": "Toys For Kids \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/toys.njk"
+    },
+    {
+      "path": "programs/wot.html",
+      "title": "NRA Women On Target \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/wot.njk"
+    },
+    {
+      "path": "programs/youthra.html",
+      "title": " \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "programs/youthra.njk"
+    },
+    {
+      "path": "rimfire/2015.html",
+      "title": "Pine Tree Rifle Club Rimfire League 2015",
+      "historical": true,
+      "source": "competitions/rimfire/2015.njk"
+    },
+    {
+      "path": "rimfire/2026brlsch.htm",
+      "title": "2026brlsch \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/rimfire/2026brlsch.njk"
+    },
+    {
+      "path": "rimfire/kyl.htm",
+      "title": "kyl \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/rimfire/kyl.njk"
+    },
+    {
+      "path": "rimfire/rimfire.htm",
+      "title": "RIMFIRE RIFLE 2026 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/rimfire/rimfire.njk"
+    },
+    {
+      "path": "store/store.html",
+      "title": "PTRC STORE \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "store/store.njk"
+    },
+    {
+      "path": "travelleaguerifle/trl.html",
+      "title": "Eastern New York Rifle League 2025/26 \u2014 Pine Tree Rifle Club",
+      "historical": false,
+      "source": "competitions/travel-rifle/trl.njk"
+    }
+  ],
+  "assets": [
+    "3D/20253Dflyer.jpg",
+    "3D/20253Dflyer.pdf",
+    "Application.pdf",
+    "CLUBHOUSE.JPG",
+    "activities/2024ptrc3dshoots.pdf",
+    "activities/3Darcher2022sch.pdf",
+    "activities/3Darcher2023sch.pdf",
+    "activities/3dsch2015.pdf",
+    "activities/Skeetlayout02.jpg",
+    "activities/arair50.pdf",
+    "activities/arair50d.pdf",
+    "activities/traphouse.JPG",
+    "admin/62814.jpg",
+    "admin/7a.jpg",
+    "admin/Application.pdf",
+    "admin/PTRCByLaws.pdf",
+    "admin/Santa.pdf",
+    "admin/TL.jpg",
+    "admin/TL1.jpg",
+    "admin/app2025.pdf",
+    "admin/bear.jpg",
+    "admin/bylaws2020.pdf",
+    "admin/bylaws2020a.pdf",
+    "admin/bylaws2022.pdf",
+    "admin/bylaws2023.pdf",
+    "admin/bylaws2023a.pdf",
+    "admin/formhenry.pdf",
+    "admin/haroldjohn.jpg",
+    "admin/membershipapplication.pdf",
+    "admin/namvets.jpg",
+    "admin/newsign.jpg",
+    "admin/ns1.pdf",
+    "admin/ns2.pdf",
+    "admin/poster.pdf",
+    "admin/proposedchanges.pdf",
+    "admin/ptrcadds.jpg",
+    "admin/ranys.jpg",
+    "admin/revisednyspguidesa.pdf",
+    "admin/scopefulton.pdf",
+    "admin/sign3.jpg",
+    "admin/sign4.jpg",
+    "centerfire/2020Millergroup200.pdf",
+    "centerfire/2020RiflemanXTremeChallenge.pdf",
+    "centerfire/2020delsavio100.pdf",
+    "centerfire/2020riflemanchallengeflyer.pdf",
+    "centerfire/2020riflemanshuffle.pdf",
+    "centerfire/2020riflemanstrike.pdf",
+    "centerfire/2021DelSavioMillerLegendsMatches.pdf",
+    "centerfire/2021DocMaretzoLegendsScoreMatch.pdf",
+    "centerfire/2021MaretzoDonaldsonIBSMatches.pdf",
+    "centerfire/2021RiflemanChallengeMatches.pdf",
+    "centerfire/2022OfficialCriteriaCenterfireRifles.pdf",
+    "centerfire/2024riflemanschallengesch.pdf",
+    "centerfire/2024rulesprocedures.pdf",
+    "centerfire/2024topgunprogram.pdf",
+    "centerfire/2024topgunregform.pdf",
+    "centerfire/FORM2026CFBRleaguereg.pdf",
+    "centerfire/FORMPTRCCFBRscoresheet.pdf",
+    "centerfire/IBS10007182020.pdf",
+    "centerfire/Maretzo100-200.pdf",
+    "centerfire/PTRCHealthProtocolsCV19.pdf",
+    "dec/GalleryofGunsscholarship2016.pdf",
+    "dec/Winter Series.pdf",
+    "events/2019schutzenfest.pdf",
+    "events/2020schuetzenfest.pdf",
+    "events/2021schutzenfest.pdf",
+    "events/2025 K9 flyer.pdf",
+    "events/2025Swapshop.pdf",
+    "events/Funday2024.pdf",
+    "events/K9/2026K9pin2.jpg",
+    "events/K9/2026K9pine.jpg",
+    "events/SSFlyer2026.jpg",
+    "events/flyerbiglittleturkey.jpg",
+    "events/pheasanthunts26.jpg",
+    "events/ss2015.pdf",
+    "events/ssflyer2022a.pdf",
+    "events/vetsdinner21.jpg",
+    "fireside/204ruger1.pdf",
+    "fireside/204ruger2.pdf",
+    "fireside/June2020HomeontheRange.pdf",
+    "newsletter/2025/2025pg1.jpg",
+    "newsletter/2025/2025pg3.jpg",
+    "newsletter/2025/2025pg4.jpg",
+    "pics/06292013200ydcfm.jpg",
+    "pics/2015tot.jpg",
+    "pics/80patch.jpg",
+    "pics/80pin.jpg",
+    "pics/NRA LOGO 002.jpg",
+    "pics/aflag.jpg",
+    "pics/bullet.bmp",
+    "pics/clubhouse.jpg",
+    "pics/clubhouse5.jpg",
+    "pics/dtonme.jpg",
+    "pics/flaghalfmast2.jpg",
+    "pics/gen2.jpg",
+    "pics/happy-new-year.jpg",
+    "pics/k95.jpg",
+    "pics/nracrso.jpg",
+    "pics/nrainstpatch.jpg",
+    "pics/nrarso.jpg",
+    "pics/nysrpa.jpg",
+    "pics/oneshot.jpg",
+    "pics/ptrap01.JPG",
+    "pics/ptrcmap.jpg",
+    "pics/thanks2.gif",
+    "pics/vets002.jpg",
+    "pistol/22LR Pistol Bowling Pin Challenge Rules.pdf",
+    "pistol/CombatPistolL2.pdf",
+    "pistol/CompetitionRulesPTRCPistolcombatchallenge.pdf",
+    "programs/2014mrc.pdf",
+    "programs/awardtft2015.jpg",
+    "programs/ep2025.pdf",
+    "programs/nraemblem.jpg",
+    "programs/nraoutsidehome.pdf",
+    "programs/nrapphome.pdf",
+    "programs/rso01.jpg",
+    "programs/rsoregform05052019.pdf",
+    "programs/rtbavlogo.gif",
+    "programs/wot-logo.jpg",
+    "rimfire/042024rimfirerules.txt",
+    "rimfire/201518.pdf",
+    "rimfire/2020RFLRules.pdf",
+    "rimfire/2020rimfirereg.pdf",
+    "rimfire/2021rflrules.pdf",
+    "rimfire/2022RFLRegistrationForm.pdf",
+    "rimfire/2022Welcome.pdf",
+    "rimfire/2022rulesprocedures.pdf",
+    "rimfire/2023golfflyer.pdf",
+    "rimfire/2025RFLRules.pdf",
+    "rimfire/2025rimfirereg.pdf",
+    "rimfire/2026RFLregform.docx",
+    "rimfire/rules7.pdf",
+    "rimfire/targeframe01.pdf",
+    "shotgun/04192025bunnyball.pdf",
+    "shotgun/2023youthshoot.jpg",
+    "shotgun/2024trapsummerleague.pdf",
+    "shotgun/2024wintertrapleague.pdf",
+    "shotgun/2025.jpg",
+    "shotgun/2025pheasanthunts.pdf",
+    "store/2hatspatch.jpg",
+    "store/Form order merch.pdf",
+    "store/carhartt-Carhartt-Brown-Duck-Detroit-Jacket.jpeg",
+    "store/carjak.jpg",
+    "store/greenclubshirtshoodie.jpg",
+    "store/hat06052021.jpg",
+    "store/hatblackfull.jpg",
+    "store/hatgreenfull.jpg",
+    "store/hats112021.jpg",
+    "store/storeclubjacket.jpg",
+    "store/storelogodecal.jpg",
+    "store/storelogopatch.jpg",
+    "store/winhat.jpg",
+    "style.css",
+    "travelleaguerifle/2122sch.pdf",
+    "travelleaguerifle/2223sch.pdf"
+  ],
+  "missing": [
+    {
+      "file": "A1.jpg",
+      "id": "73d99ab1c2df",
+      "pages": [
+        "Fireside.html"
+      ]
+    },
+    {
+      "file": "DSC00762.JPG",
+      "id": "d81c2b4d3d08",
+      "pages": [
+        "Fireside.html"
+      ]
+    },
+    {
+      "file": "Gary Stoller.JPG",
+      "id": "defe17147c8a",
+      "pages": [
+        "Member News.html"
+      ]
+    },
+    {
+      "file": "RaffleWinner.JPG",
+      "id": "dc555b441499",
+      "pages": [
+        "Raffle.html"
+      ]
+    },
+    {
+      "file": "activities/20213darchery.jpg",
+      "id": "ec20ec495205",
+      "pages": [
+        "activities/3Darchery.html"
+      ]
+    },
+    {
+      "file": "activities/ppsl/Safety Check USPS.pdf",
+      "id": "7069e188103e",
+      "pages": [
+        "activities/ppsl/ppsl.html"
+      ]
+    },
+    {
+      "file": "activities/ptrcfd.jpg",
+      "id": "79741ff66850",
+      "pages": [
+        "activities/ptrcfs.html"
+      ]
+    },
+    {
+      "file": "admin/cover.jpg",
+      "id": "38c1d18b356e",
+      "pages": [
+        "admin/newsletter02272015.html",
+        "admin/ptrcnewsletter.html"
+      ]
+    },
+    {
+      "file": "centerfire/ibs1005122018.pdf",
+      "id": "3cdfe1ee9934",
+      "pages": [
+        "centerfire/cfire2019.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/05312014.html",
+      "id": "bf876de43031",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/06282014.html",
+      "id": "60acc2d19895",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/7262014.html",
+      "id": "ce68a5f4b2a2",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/830312014report.html",
+      "id": "fd28b72d737b",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/d2014.html",
+      "id": "e4929cdc3fd5",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibs2014an.pdf",
+      "id": "cc3a62b6ee6e",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibs830100yd.html",
+      "id": "5cc9a4d96e62",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibs831200yd.html",
+      "id": "6aea449668f5",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibsga.html",
+      "id": "e94bb27565b2",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibsregform.pdf",
+      "id": "3a9d2fdfbbcf",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ibsrelform.pdf",
+      "id": "ba32733fa461",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ptrc2014an.pdf",
+      "id": "6d3ec3cf0020",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/ptrcbenchrest830312014.html",
+      "id": "c1d36d335c18",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2014/range (640x410).jpg",
+      "id": "2bfcb55c59bf",
+      "pages": [
+        "centerfire2014/cfire2014.html"
+      ]
+    },
+    {
+      "file": "centerfire2015/ibsinfo2015.pdf",
+      "id": "ea9f9a62f428",
+      "pages": [
+        "centerfire2015/cfire2015.html"
+      ]
+    },
+    {
+      "file": "centerfire2015/ibsregform.pdf",
+      "id": "e87ce10b29cd",
+      "pages": [
+        "centerfire2015/cfire2015.html"
+      ]
+    },
+    {
+      "file": "centerfire2015/ibsrelform.pdf",
+      "id": "6d76d8ac94f4",
+      "pages": [
+        "centerfire2015/cfire2015.html"
+      ]
+    },
+    {
+      "file": "centerfire2016/ibsinfo2015.pdf",
+      "id": "ad02ad175f6d",
+      "pages": [
+        "centerfire2016/cfire2016.html"
+      ]
+    },
+    {
+      "file": "centerfire2016/ibsregform.pdf",
+      "id": "b2c9ca8554e1",
+      "pages": [
+        "centerfire2016/cfire2016.html"
+      ]
+    },
+    {
+      "file": "centerfire2016/ibsrelform.pdf",
+      "id": "c4a5ac8b0150",
+      "pages": [
+        "centerfire2016/cfire2016.html"
+      ]
+    },
+    {
+      "file": "events/201309schuetzenfest.jpg",
+      "id": "c28d31b893b6",
+      "pages": [
+        "events/schutzenfest.html"
+      ]
+    },
+    {
+      "file": "events/2015schuetzenf.jpg",
+      "id": "d3dda5bfa3e1",
+      "pages": [
+        "events/schutzenfest.html"
+      ]
+    },
+    {
+      "file": "events/K9/flyerK92026.jpg",
+      "id": "7f4d244f91e5",
+      "pages": [
+        "events/K9/pinflyerK92026.htm"
+      ]
+    },
+    {
+      "file": "events/K9/flyerk92026b.jpg",
+      "id": "13053d88214c",
+      "pages": [
+        "events/K9/pinflyerK92026.htm"
+      ]
+    },
+    {
+      "file": "events/K92015.jpg",
+      "id": "dd910763558b",
+      "pages": [
+        "events/k9ride.html"
+      ]
+    },
+    {
+      "file": "events/K92015pin.jpg",
+      "id": "c4222b607d81",
+      "pages": [
+        "events/k9ride.html"
+      ]
+    },
+    {
+      "file": "fireside/pics/patch1985 (599x640).jpg",
+      "id": "b9379ce44c8e",
+      "pages": [
+        "fireside/082014.html"
+      ]
+    },
+    {
+      "file": "fireside/pics/patch1987 (637x640).jpg",
+      "id": "6836c7365e76",
+      "pages": [
+        "fireside/082014.html"
+      ]
+    },
+    {
+      "file": "pics/1955.jpg",
+      "id": "9607c50a8b08",
+      "pages": [
+        "fireside/keith.html"
+      ]
+    },
+    {
+      "file": "pics/1955A.jpg",
+      "id": "d2977f4bbf2e",
+      "pages": [
+        "fireside/keith.html"
+      ]
+    },
+    {
+      "file": "pics/OCT16countrynightposter.jpg",
+      "id": "e8c2b47a42c3",
+      "pages": [
+        "activities/countrynight.html"
+      ]
+    },
+    {
+      "file": "pics/hitler.jpg",
+      "id": "3244672a2430",
+      "pages": [
+        "admin/newsboard.html"
+      ]
+    },
+    {
+      "file": "pics/pc1award.jpg",
+      "id": "1532ca7dd135",
+      "pages": [
+        "admin/newsboard.html"
+      ]
+    },
+    {
+      "file": "pics/pcaward.jpg",
+      "id": "01f71b587693",
+      "pages": [
+        "admin/newsboard.html"
+      ]
+    },
+    {
+      "file": "pics/shotgunframe.jpg",
+      "id": "ba642f94bc01",
+      "pages": [
+        "admin/shotgun.html"
+      ]
+    },
+    {
+      "file": "rimfire/2025brlsch.htm",
+      "id": "4abb2cec1fb6",
+      "pages": [
+        "rimfire/rimfire.htm"
+      ]
+    }
+  ]
+}
