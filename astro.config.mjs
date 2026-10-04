@@ -1,3 +1,4 @@
+import tailwind from '@tailwindcss/vite';
 import { defineConfig } from 'astro/config';
 import cloudflare from '@astrojs/cloudflare';
 import react from '@astrojs/react';
@@ -12,5 +13,5 @@ export default defineConfig({
   build: { format: 'directory' },
   ...(offline ? {} : { adapter: cloudflare({ imageService: 'passthrough' }) }),
   integrations: offline ? [] : [react(), emdash({ database: d1({ binding: 'DB' }), storage: r2({ binding: 'MEDIA' }) })],
-  ...(offline ? { vite: { resolve: { alias: [{ find: /^emdash$/, replacement: new URL('./scripts/offline-cms.mjs', import.meta.url).pathname }] } } } : {}),
+  vite: { plugins: [tailwind()], ...(offline ? { resolve: { alias: [{ find: /^emdash$/, replacement: new URL('./scripts/offline-cms.mjs', import.meta.url).pathname }] } } : {}) },
 });

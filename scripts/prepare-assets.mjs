@@ -9,3 +9,6 @@ for (const [target, source] of Object.entries(map)) {
 await fs.mkdir('public/assets', { recursive: true });
 for (const name of ['legacy', 'restoration']) await fs.copyFile(`src/assets/styles/${name}.css`, `public/assets/${name}.css`);
 await fs.cp('src/assets/images/external', 'public/assets/images/external', { recursive: true });
+await fs.cp('src/assets/calendars', 'public/assets/calendars', { recursive: true });
+
+await fs.cp('src/assets/images/affiliates', 'public/assets/images/affiliates', { recursive: true });

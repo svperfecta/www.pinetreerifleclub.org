@@ -1,0 +1,41 @@
+@import 'tailwindcss';
+@import './theme.css';
+@import '@fontsource/libre-caslon-text/latin-400.css';
+@import '@fontsource/libre-caslon-text/latin-700.css';
+@import '@fontsource-variable/source-serif-4/index.css';
+@import '@fontsource/atkinson-hyperlegible/latin-400.css';
+@import '@fontsource/atkinson-hyperlegible/latin-700.css';
+@import '@fontsource/caveat/latin-600.css';
+@layer components {
+.wrap { max-width:1200px; margin:auto; padding-inline:clamp(20px,4vw,40px) }
+.topbar { background:var(--color-pine); color:var(--color-paper); font:17px var(--font-ui); padding:12px 0 }
+.topbar .wrap { display:flex; justify-content:space-between; gap:12px; flex-wrap:wrap }
+.topbar a, .footer a { color:var(--color-paper) }
+.masthead { display:flex; align-items:center; gap:24px; padding-block:30px }
+.logo { width:90px; height:90px; object-fit:contain; border-radius:50% }
+h1,h2,h3 { font-family:var(--font-display); color:var(--color-pine); line-height:1.2; font-weight:400 }
+h1 { font-size:clamp(34px,4vw,52px) } h2 { font-size:clamp(27px,3vw,35px); margin-bottom:24px } h3 { font-size:25px; margin-bottom:12px }
+p { margin-bottom:18px } .eyebrow { font:700 15px var(--font-ui); color:var(--color-brass); letter-spacing:.12em; text-transform:uppercase; margin-bottom:12px }
+.brand { font:clamp(24px,3vw,38px) var(--font-display); text-decoration:none } .masthead form { margin-left:auto; display:flex }
+input,select { min-height:52px; border:1px solid var(--color-field); background:var(--color-card); padding:10px 14px; font:18px var(--font-ui); max-width:100% }
+button,.button { display:inline-flex; align-items:center; justify-content:center; min-height:52px; padding:10px 22px; background:var(--color-pine); color:white; font:700 18px var(--font-ui); text-decoration:none; cursor:pointer; border:1px solid var(--color-pine) }
+.button.secondary { background:var(--color-card); color:var(--color-pine) } button:hover,.button:hover { background:var(--color-brass); color:white }
+.nav { border-top:1px solid var(--color-rule); border-bottom:3px double var(--color-rule) } .navlinks { display:flex; justify-content:space-between; gap:8px }
+.nav a { min-height:58px; display:flex; align-items:center; font:700 18px var(--font-ui); text-decoration:none; border-bottom:3px solid transparent }
+.nav a[aria-current=page] { border-color:var(--color-brass) } #menu { display:none }
+.hero { display:grid; grid-template-columns:1.05fr 1fr; gap:48px; align-items:center; padding-block:48px } .hero h1 { margin-bottom:24px }
+.framed { background:var(--color-photo-mat); border:1px solid var(--color-rule); padding:12px } .framed img { width:100%; height:330px; object-fit:cover }
+.caption { font:17px var(--font-ui); margin:10px 0 0; color:var(--color-muted) }
+.section { padding-block:40px; border-top:3px double var(--color-rule) } .columns { display:grid; grid-template-columns:1.5fr 1fr; gap:48px } .cards { display:grid; grid-template-columns:repeat(3,1fr); gap:24px }
+.card { background:var(--color-card); border:1px solid var(--color-rule); padding:26px } .card .tag { font:700 16px var(--font-ui); color:var(--color-brass) }
+.band { background:var(--color-panel); padding-block:36px; border-bottom:1px solid var(--color-rule) } .band h1 { margin-bottom:18px } .lede { max-width:760px; margin:0 }
+.content { padding-block:40px; min-height:420px } .prose { max-width:850px } .prose ul,.prose ol { padding-left:28px; margin-bottom:24px } .prose li { margin-bottom:14px }
+.notice { border-left:5px solid var(--color-brass); background:var(--color-panel); padding:20px 24px; margin-bottom:28px }
+.scorebox { border:1px solid var(--color-rule); background:var(--color-card) } .scorebox h2 { background:var(--color-pine); color:white; padding:20px; margin:0 }
+table { width:100%; border-collapse:collapse; font:18px var(--font-ui) } th,td { padding:14px; border-bottom:1px solid var(--color-rule-soft); text-align:left } th { color:var(--color-pine) } .scroll { overflow:auto }
+.event { display:flex; gap:24px; border-bottom:1px solid var(--color-rule); padding:20px 0 } .event time { font:700 18px var(--font-ui); color:var(--color-brass); min-width:100px } .event h3 { font-size:22px; margin-bottom:6px } .event p { margin:0; font-size:18px }
+.toolbar { display:flex; gap:16px; flex-wrap:wrap; align-items:center; margin-bottom:28px } .footer { background:var(--color-pine); color:var(--color-paper); padding-block:40px; margin-top:36px; font:18px var(--font-ui) } .footer h2 { color:var(--color-paper) } .footer .affiliates { display:flex; flex-wrap:wrap; gap:24px; border-block:1px solid var(--color-footer-rule); padding:24px 0; margin:24px 0; align-items:center } .affiliates img { height:80px; width:150px; object-fit:contain; background:transparent; padding:0 }
+.skip { position:absolute; left:12px; top:-100px; z-index:20; background:white; padding:12px } .skip:focus { top:12px } [hidden] { display:none!important }
+@media(max-width:999px) { #menu { display:flex; width:100%; justify-content:space-between } .navlinks { display:none } .navlinks.open { display:block } .masthead { flex-wrap:wrap } .masthead form { width:100%; margin:0 } .masthead input { flex:1; min-width:0 } .hero,.columns { grid-template-columns:1fr; gap:30px } .cards { grid-template-columns:1fr } .logo { width:64px;height:64px } .hero { padding-block:32px } }
+@media print { .topbar,.masthead,.nav,.footer,.toolbar { display:none } body { font-size:12pt } }
+}

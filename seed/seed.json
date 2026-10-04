@@ -82,6 +82,51 @@
           "required": false
         }
       ]
+    },
+    {
+      "slug": "club_content",
+      "label": "Club content",
+      "labelSingular": "Club page or announcement",
+      "titleField": "title",
+      "urlPattern": "/club-content/{slug}",
+      "routable": true,
+      "supports": [
+        "drafts",
+        "revisions",
+        "search",
+        "seo"
+      ],
+      "fields": [
+        {
+          "slug": "title",
+          "label": "Title",
+          "type": "string",
+          "required": true,
+          "searchable": true
+        },
+        {
+          "slug": "description",
+          "label": "Summary",
+          "type": "text",
+          "searchable": true
+        },
+        {
+          "slug": "body",
+          "label": "Article HTML",
+          "type": "text",
+          "searchable": true
+        },
+        {
+          "slug": "tag",
+          "label": "Category",
+          "type": "string"
+        },
+        {
+          "slug": "source_note",
+          "label": "Recovery provenance",
+          "type": "text"
+        }
+      ]
     }
   ],
   "content": {
@@ -2084,6 +2129,113 @@
           "home": false,
           "has_heading": false,
           "historical": false
+        }
+      }
+    ],
+    "club_content": [
+      {
+        "id": "theme-ranges",
+        "slug": "ranges",
+        "status": "published",
+        "data": {
+          "title": "Ranges",
+          "description": "Thirty acres of ranges and pines, maintained by our members.",
+          "body": "<div class=\"notice\"><strong>Wednesday work party:</strong> all ranges are closed Wednesdays. The recovered notice lists handgun and rifle range hours as 9 a.m. to dusk on other days. Call before traveling to confirm current conditions.</div><div class=\"cards\"><article class=\"card\"><h2>Rifle ranges</h2><img src=\"/pics/06292013200ydcfm.jpg\" alt=\"Club rifle range\" loading=\"lazy\"><p>Explore the club’s centerfire and rimfire programs.</p><a href=\"/centerfire/centerfire.html\">Centerfire program</a></article><article class=\"card\"><h2>Trap &amp; skeet</h2><img src=\"/activities/traphouse.JPG\" alt=\"Club trap house\" loading=\"lazy\"><p>Find shotgun programs and recovered league schedules.</p><a href=\"/activities/trap.html\">Shotgun program</a></article><article class=\"card\"><h2>Range rules</h2><p>Read the complete recovered club safety and range rules before using the facilities.</p><a href=\"/admin/srr.html\">Read range rules</a></article></div>",
+          "source_note": "Adapted from recovered original club pages. Confirm current operational details."
+        }
+      },
+      {
+        "id": "theme-membership",
+        "slug": "membership",
+        "status": "published",
+        "data": {
+          "title": "Membership",
+          "description": "Join a club built and maintained by its members.",
+          "body": "<div class=\"prose\"><h2>How to apply</h2><ol><li>Applicants must be United States citizens and at least 18 years old.</li><li>Complete an application and arrange a sponsor who is a current Pine Tree Rifle Club member.</li><li>Submit the application with the recovered requirements’ $10 nonrefundable application fee. Applicants who are not NRA members must also complete an NRA membership application.</li><li>After acceptance, attend the new candidates meeting with your sponsor.</li></ol><p>Mail applications to Pine Tree Rifle Club, P.O. Box 45, Johnstown, NY 12095. Please confirm current fees and requirements with the club.</p><a class=\"button\" href=\"/admin/membershipapplication.pdf\">Download application (PDF)</a><p><a href=\"/admin/mr.html\">Original membership requirements</a></p></div>",
+          "source_note": "Adapted from recovered original club pages. Confirm current operational details."
+        }
+      },
+      {
+        "id": "theme-history",
+        "slug": "history",
+        "status": "published",
+        "data": {
+          "title": "History",
+          "description": "Established in 1937. Rooted in Johnstown.",
+          "body": "<div class=\"prose\"><h2>A club built by its members</h2><p>The first meeting was held in the spring of 1937 at the home of Robert C. Kilmer.</p><ol><li><strong>1938:</strong> Land was leased for a 100-yard range and trap shooting.</li><li><strong>1940:</strong> Members built the clubhouse during the fall and winter.</li><li><strong>1942:</strong> The club purchased the thirty-acre property outright.</li><li><strong>1947:</strong> Members added a well, improved roads, parking, bench rests and the rifle range.</li></ol><figure class=\"framed\"><img src=\"/pics/clubhouse.jpg\" alt=\"Pine Tree Rifle Club clubhouse\"><figcaption class=\"caption\">Clubhouse photograph recovered from the original website.</figcaption></figure><p><a href=\"/admin/history.html\">Read the complete early history and charter member list</a></p></div>",
+          "source_note": "Adapted from recovered original club pages. Confirm current operational details."
+        }
+      },
+      {
+        "id": "theme-classes",
+        "slug": "classes",
+        "status": "published",
+        "data": {
+          "title": "Classes",
+          "description": "Training and education at Pine Tree Rifle Club.",
+          "body": "<div class=\"notice\">This is the recovered 2026 schedule. Dates, fees and availability need confirmation with the organizers before registration.</div><div class=\"cards\"><article class=\"card\"><h2>Pistol license course</h2><p>The recovered schedule lists a $175 course fee or $100 nonrefundable deposit. Remaining 2026 sessions: November 13, 14 and 16.</p><a href=\"/programs/2026classes.html\">Complete schedule &amp; registration</a></article><article class=\"card\"><h2>NRA programs</h2><p>Basic pistol, rifle, shotgun, personal protection and Women on Target programs.</p><p>Contact Doug Simek: <a href=\"tel:+15187733716\">(518) 773‑3716</a>.</p><a href=\"/programs/2026classes.html\">Recovered class details</a></article><article class=\"card\"><h2>Hunter education</h2><p>Recovered DEC hunter education and range safety officer classes.</p><p>Contact Steven H. Riach: <a href=\"tel:+15182243437\">(518) 224‑3437</a>.</p><a href=\"/events/\">View calendar</a></article></div>",
+          "source_note": "Adapted from recovered original club pages. Confirm current operational details."
+        }
+      },
+      {
+        "id": "theme-contact",
+        "slug": "contact",
+        "status": "published",
+        "data": {
+          "title": "Contact",
+          "description": "Visit, call, or write to the club.",
+          "body": "<div class=\"columns\"><section><h2>Give us a call</h2><p><a class=\"button\" href=\"tel:+15187624033\">(518) 762‑4033</a></p><h2>Visit the club</h2><p>419 Johnson Avenue Ext.<br>Johnstown, NY 12095</p><p><a href=\"https://www.google.com/maps/search/?api=1&query=419+Johnson+Avenue+Ext+Johnstown+NY+12095\">Open directions in Google Maps</a></p><h2>Mailing address</h2><p>Pine Tree Rifle Club<br>P.O. Box 45<br>Johnstown, NY 12095</p></section><figure class=\"framed\"><img src=\"/pics/ptrcmap.jpg\" alt=\"Recovered map showing the club location\"><figcaption class=\"caption\">Map from the original club website.</figcaption></figure></div>",
+          "source_note": "Adapted from recovered original club pages. Confirm current operational details."
+        }
+      },
+      {
+        "id": "theme-photos",
+        "slug": "photos",
+        "status": "published",
+        "data": {
+          "title": "Photos",
+          "description": "Club memories, preserved with their original albums.",
+          "body": "<div class=\"notice\"><h2>Album recovery is still in progress</h2><p>No recovered pages have yet been verified as complete photo galleries. Pictures used in articles and other pages are kept with those pages, rather than added to this gallery.</p></div><h2>2026 K9 ride photographs</h2><p>The original homepage linked to Mark Perfetti Photography’s album for the June 14, 2026 K9 ride.</p><a class=\"button secondary\" href=\"https://www.markperfettiphotography.com/Events/PTRC-17th-Annual-K9-Ride-June-14th-2026/n-MQhth3/i-BL3GdXP\">Visit photographer’s album</a>",
+          "source_note": "Adapted from recovered original club pages. Confirm current operational details."
+        }
+      },
+      {
+        "id": "theme-news-k9-ride",
+        "slug": "news-k9-ride",
+        "status": "published",
+        "data": {
+          "slug": "k9-ride",
+          "title": "Thank you for supporting the K9 ride",
+          "tag": "Club",
+          "description": "The original homepage celebrated the June 14, 2026 K9 ride and shared the event photographer’s album.",
+          "body": "<p>Thank you to everyone who supported the club’s K9 ride on June 14, 2026.</p><p>The original homepage shared <a href=\"https://www.markperfettiphotography.com/Events/PTRC-17th-Annual-K9-Ride-June-14th-2026/n-MQhth3/i-BL3GdXP\">Mark Perfetti Photography’s event album</a>.</p>",
+          "source_note": "Recovered from the original homepage captured June 25, 2026. Original publication date unknown."
+        }
+      },
+      {
+        "id": "theme-news-wednesday-work-party",
+        "slug": "news-wednesday-work-party",
+        "status": "published",
+        "data": {
+          "slug": "wednesday-work-party",
+          "title": "Wednesday is work party day",
+          "tag": "Range",
+          "description": "Members gather at 9 a.m. on Wednesdays. All ranges are closed for the work party.",
+          "body": "<p>The recovered club notice lists a Wednesday work party at 9 a.m. All ranges are closed Wednesdays.</p><p>The recovered handgun and rifle range hours are 9 a.m. to dusk on other days. Call the club to confirm current arrangements.</p>",
+          "source_note": "Recovered from the original homepage captured June 25, 2026. Original publication date unknown."
+        }
+      },
+      {
+        "id": "theme-news-2026-training",
+        "slug": "news-2026-training",
+        "status": "published",
+        "data": {
+          "slug": "2026-training",
+          "title": "2026 training schedule recovered",
+          "tag": "Classes",
+          "description": "The club’s original training schedule includes pistol license classes, NRA programs and hunter education.",
+          "body": "<p>The recovered 2026 training schedule is available, including registration contacts and the listed dates and fees.</p><p><a href=\"/programs/2026classes.html\">Read the original 2026 class schedule</a>. Please confirm availability and current details before registering.</p>",
+          "source_note": "Recovered from the original homepage captured June 25, 2026. Original publication date unknown."
         }
       }
     ]

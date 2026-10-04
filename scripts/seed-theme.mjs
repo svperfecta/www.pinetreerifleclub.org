@@ -1,0 +1,10 @@
+import fs from 'node:fs/promises';
+const seed=JSON.parse(await fs.readFile('seed/seed.json'));
+const theme=JSON.parse(await fs.readFile('src/data/theme-content.json'));
+const collection={slug:'club_content',label:'Club content',labelSingular:'Club page or announcement',titleField:'title',urlPattern:'/club-content/{slug}',routable:true,supports:['drafts','revisions','search','seo'],fields:[{slug:'title',label:'Title',type:'string',required:true,searchable:true},{slug:'description',label:'Summary',type:'text',searchable:true},{slug:'body',label:'Article HTML',type:'text',searchable:true},{slug:'tag',label:'Category',type:'string'},{slug:'source_note',label:'Recovery provenance',type:'text'}]};
+seed.collections=seed.collections.filter(c=>c.slug!=='club_content').concat(collection);
+const entries=[...Object.entries(theme.pages).map(([slug,data])=>({id:`theme-${slug}`,slug,status:'published',data:{...data,source_note:'Adapted from recovered original club pages. Confirm current operational details.'}})),...theme.news.map(n=>({id:`theme-news-${n.slug}`,slug:`news-${n.slug}`,status:'published',data:{...n,source_note:'Recovered from the original homepage captured June 25, 2026. Original publication date unknown.'}}))];
+console.log(Object.keys(seed));
+seed.content=seed.content || {};seed.content.club_content=entries;
+await fs.writeFile('seed/seed.json',JSON.stringify(seed,null,2)+'\n');
+await fs.writeFile('seed/theme.json',JSON.stringify({version:'1',meta:{name:'Pine Tree theme content'},collections:[collection],content:{club_content:entries}},null,2)+'\n');

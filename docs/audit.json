@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-10-04T21:37:38.952Z",
-  "base": "http://127.0.0.1:54564/",
-  "pageCount": 125,
+  "generatedAt": "2026-10-04T23:02:23.836Z",
+  "base": "http://127.0.0.1:60409/",
+  "pageCount": 139,
   "results": [
     {
       "file": "3D Results.html",
@@ -664,6 +664,36 @@
       "violations": []
     },
     {
+      "file": "classes/index.html",
+      "seo": {
+        "title": "Classes — Pine Tree Rifle Club",
+        "description": "Training and education at Pine Tree Rifle Club.",
+        "canonical": "http://localhost:4321/classes/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "contact/index.html",
+      "seo": {
+        "title": "Contact — Pine Tree Rifle Club",
+        "description": "Visit, call, or write to the club.",
+        "canonical": "http://localhost:4321/contact/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
       "file": "CurrentMonth.html",
       "seo": {
         "title": "Current Month — Pine Tree Rifle Club",
@@ -714,6 +744,21 @@
         "title": "PTRC's K9 Shirt Supporters — Pine Tree Rifle Club",
         "description": "PTRC 16th Annual Bike Ride/K9 Fund Raiser June 22nd 2025 Cost just for rider $20.00 passenger additional $10.00. e Listing of 2025 sponsors. We apprciate t",
         "canonical": "http://localhost:4321/events/bikerun.htm",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "events/index.html",
+      "seo": {
+        "title": "Events — Pine Tree Rifle Club",
+        "description": "A member maintained rifle club in Johnstown, New York. Ranges, league scores, events, classes and club news.",
+        "canonical": "http://localhost:4321/events/",
         "h1Count": 1,
         "noindex": false,
         "brokenImages": [],
@@ -919,11 +964,26 @@
       "violations": []
     },
     {
+      "file": "history/index.html",
+      "seo": {
+        "title": "History — Pine Tree Rifle Club",
+        "description": "Established in 1937. Rooted in Johnstown.",
+        "canonical": "http://localhost:4321/history/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
       "file": "index.html",
       "seo": {
-        "title": "Pine Tree Rifle Club",
-        "description": "Pine Tree Rifle Club in Johnstown, New York. Club information, membership, shooting activities, training programs, and events.",
-        "canonical": "http://localhost:4321/index.html",
+        "title": "Home — Pine Tree Rifle Club",
+        "description": "A member maintained rifle club in Johnstown, New York. Ranges, league scores, events, classes and club news.",
+        "canonical": "http://localhost:4321/",
         "h1Count": 1,
         "noindex": false,
         "brokenImages": [],
@@ -933,7 +993,7 @@
       "remoteAssets": [],
       "violations": [],
       "mobile": {
-        "scrollWidth": 1308,
+        "scrollWidth": 390,
         "viewport": 390
       }
     },
@@ -953,6 +1013,21 @@
       "violations": []
     },
     {
+      "file": "membership/index.html",
+      "seo": {
+        "title": "Membership — Pine Tree Rifle Club",
+        "description": "Join a club built and maintained by its members.",
+        "canonical": "http://localhost:4321/membership/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
       "file": "missing-content.html",
       "seo": {
         "title": "Unavailable files — Pine Tree Rifle Club",
@@ -960,6 +1035,66 @@
         "canonical": "http://localhost:4321/missing-content.html",
         "h1Count": 1,
         "noindex": true,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "news/2026-training/index.html",
+      "seo": {
+        "title": "2026 training schedule recovered — Pine Tree Rifle Club",
+        "description": "The club’s original training schedule includes pistol license classes, NRA programs and hunter education.",
+        "canonical": "http://localhost:4321/news/2026-training/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "news/index.html",
+      "seo": {
+        "title": "News — Pine Tree Rifle Club",
+        "description": "A member maintained rifle club in Johnstown, New York. Ranges, league scores, events, classes and club news.",
+        "canonical": "http://localhost:4321/news/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "news/k9-ride/index.html",
+      "seo": {
+        "title": "Thank you for supporting the K9 ride — Pine Tree Rifle Club",
+        "description": "The original homepage celebrated the June 14, 2026 K9 ride and shared the event photographer’s album.",
+        "canonical": "http://localhost:4321/news/k9-ride/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "news/wednesday-work-party/index.html",
+      "seo": {
+        "title": "Wednesday is work party day — Pine Tree Rifle Club",
+        "description": "Members gather at 9 a.m. on Wednesdays. All ranges are closed for the work party.",
+        "canonical": "http://localhost:4321/news/wednesday-work-party/",
+        "h1Count": 1,
+        "noindex": false,
         "brokenImages": [],
         "horizontalOverflow": false
       },
@@ -1005,6 +1140,36 @@
         "canonical": "http://localhost:4321/Oktoberfest.html",
         "h1Count": 1,
         "noindex": true,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "original-home.html",
+      "seo": {
+        "title": "Pine Tree Rifle Club",
+        "description": "Pine Tree Rifle Club in Johnstown, New York. Club information, membership, shooting activities, training programs, and events.",
+        "canonical": "http://localhost:4321/index.html",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "photos/index.html",
+      "seo": {
+        "title": "Photos — Pine Tree Rifle Club",
+        "description": "Club memories, preserved with their original albums.",
+        "canonical": "http://localhost:4321/photos/",
+        "h1Count": 1,
+        "noindex": false,
         "brokenImages": [],
         "horizontalOverflow": false
       },
@@ -1748,6 +1913,21 @@
       "violations": []
     },
     {
+      "file": "ranges/index.html",
+      "seo": {
+        "title": "Ranges — Pine Tree Rifle Club",
+        "description": "Thirty acres of ranges and pines, maintained by our members.",
+        "canonical": "http://localhost:4321/ranges/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
       "file": "Related.html",
       "seo": {
         "title": "Related — Pine Tree Rifle Club",
@@ -1830,6 +2010,36 @@
         "canonical": "http://localhost:4321/Schedule.html",
         "h1Count": 1,
         "noindex": true,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "scores/index.html",
+      "seo": {
+        "title": "Scores — Pine Tree Rifle Club",
+        "description": "A member maintained rifle club in Johnstown, New York. Ranges, league scores, events, classes and club news.",
+        "canonical": "http://localhost:4321/scores/",
+        "h1Count": 1,
+        "noindex": false,
+        "brokenImages": [],
+        "horizontalOverflow": false
+      },
+      "failedRequests": [],
+      "remoteAssets": [],
+      "violations": []
+    },
+    {
+      "file": "search/index.html",
+      "seo": {
+        "title": "Search — Pine Tree Rifle Club",
+        "description": "A member maintained rifle club in Johnstown, New York. Ranges, league scores, events, classes and club news.",
+        "canonical": "http://localhost:4321/search/",
+        "h1Count": 1,
+        "noindex": false,
         "brokenImages": [],
         "horizontalOverflow": false
       },

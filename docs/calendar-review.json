@@ -1,0 +1,101 @@
+{
+  "source": "calendar.html, June 25 2026 snapshot",
+  "eventCount": 289,
+  "review": [
+    {
+      "date": "2026-06-07",
+      "text": "NRA Metalllic Cartridge Reloading 8-5PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-06-12",
+      "text": "NRA Pistol Outside the Home Defense 6-9",
+      "issue": "No unambiguous AM/PM time"
+    },
+    {
+      "date": "2026-06-13",
+      "text": "NRA Pistol Outside the Home Defense 8-5PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-06-14",
+      "text": "K9 Bike Run Fund Raiser",
+      "issue": "No unambiguous AM/PM time"
+    },
+    {
+      "date": "2026-06-17",
+      "text": "NO CLUB DINNER Due to K9 Ride",
+      "issue": "No unambiguous AM/PM time"
+    },
+    {
+      "date": "2026-07-07",
+      "text": "22LR Bowling Pin Challenge 5:30",
+      "issue": "No unambiguous AM/PM time"
+    },
+    {
+      "date": "2026-07-11",
+      "text": "NRA Range Safety Officer course 8-5PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-07-15",
+      "text": "Club Dinner to be announced",
+      "issue": "No time supplied"
+    },
+    {
+      "date": "2026-07-18",
+      "text": "NYS Pistol License Class 8-5PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-07-18",
+      "text": "CR Top Gun Rifleman's",
+      "issue": "No time supplied"
+    },
+    {
+      "date": "2026-07-19",
+      "text": "8-5PM",
+      "issue": "Time without an event title; not exported"
+    },
+    {
+      "date": "2026-07-28",
+      "text": "9MM Combat Challenge 5:30",
+      "issue": "No unambiguous AM/PM time"
+    },
+    {
+      "date": "2026-08-01",
+      "text": "DEC HUNTER ED RIFLE 8-4PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-08-08",
+      "text": "NRA Pistol In Home Defense 8-5PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-08-20",
+      "text": "VETERIANS PICNIC CONCORDIA CLUB",
+      "issue": "No time supplied"
+    },
+    {
+      "date": "2026-09-05",
+      "text": "DEC HUNTER ED BOW 8-4PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-09-12",
+      "text": "NRA Pistol Outside Home Defense 8-5PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-09-19",
+      "text": "NYS Pistol License Class 8-5PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    },
+    {
+      "date": "2026-11-14",
+      "text": "NYS Pistol License Class 8-5PM",
+      "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+    }
+  ]
+}

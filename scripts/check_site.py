@@ -75,11 +75,14 @@ for path, page in pages.items():
                 continue
         else:
             if reference.startswith("/"):
-                ERRORS.append(f"{path}: root-relative URL breaks project hosting: {reference}")
-                continue
-            joined = urlparse(urljoin("https://local/" + path, reference))
-            target = unquote(joined.path.lstrip("/")) or "index.html"
-            if target.endswith("/"): target += "index.html"
+                reference = reference.lstrip("/")
+                joined = urlparse(urljoin("https://local/", reference))
+                target = unquote(joined.path.lstrip("/")) or "index.html"
+                if target.endswith("/"): target += "index.html"
+            else:
+                joined = urlparse(urljoin("https://local/" + path, reference))
+                target = unquote(joined.path.lstrip("/")) or "index.html"
+                if target.endswith("/"): target += "index.html"
         if not (SITE / target).is_file():
             ERRORS.append(f"{path}: missing local file {reference} ({target})")
         elif parsed.fragment and target in pages and unquote(parsed.fragment) not in pages[target].ids:
@@ -90,7 +93,7 @@ for file in SITE.rglob("*.css"):
         if reference.startswith("data:"): continue
         if urlparse(reference).scheme or reference.startswith("//"):
             ERRORS.append(f"{file.relative_to(SITE)}: remote CSS resource {reference}")
-        elif not (file.parent / unquote(urlparse(reference).path)).is_file():
+        elif not ((SITE if reference.startswith("/") else file.parent) / unquote(urlparse(reference).path).lstrip("/")).is_file():
             ERRORS.append(f"{file.relative_to(SITE)}: missing CSS resource {reference}")
 
 expected = json.loads(Path("src/data/recovered.json").read_text())

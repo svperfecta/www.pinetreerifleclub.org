@@ -1,0 +1,2337 @@
+[
+  {
+    "uid": "75041858a3f7c2bcfb29443ae508048f@pine-tree-club.local",
+    "date": "2026-06-01",
+    "summary": "RFBRL #04 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "64c4480154adc9092db3a18acede2010@pine-tree-club.local",
+    "date": "2026-06-02",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "0fae60c3eb5319e563af0ca07f9a8d9d@pine-tree-club.local",
+    "date": "2026-06-04",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "3cde96a7f187c24f2ad6fd9bd7bd02be@pine-tree-club.local",
+    "date": "2026-06-04",
+    "summary": "Skeet Open 4PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 960
+  },
+  {
+    "uid": "6eca578e7e512d57425dfa6214cccffd@pine-tree-club.local",
+    "date": "2026-06-04",
+    "summary": "Trap Open 5PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1020
+  },
+  {
+    "uid": "a99f0ae213c4e8e5436cccee3926dd60@pine-tree-club.local",
+    "date": "2026-06-05",
+    "summary": "Hall Rental 5-9PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1020,
+    "end": 1260
+  },
+  {
+    "uid": "5e348895691122f1be4c4ed6ee9f8030@pine-tree-club.local",
+    "date": "2026-06-06",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "24e1bebe22a054517b6ade38435b2257@pine-tree-club.local",
+    "date": "2026-06-06",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "e448f4332af72ca92ae188d92b2f3337@pine-tree-club.local",
+    "date": "2026-06-06",
+    "summary": "HALL RENTAL 1-4PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 780,
+    "end": 960
+  },
+  {
+    "uid": "ae66278b7bab87fa0c66eb5d397dc14e@pine-tree-club.local",
+    "date": "2026-06-06",
+    "summary": "CF TOP GUN Riflem's Team Challenge 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "addeadefbbbeeeae37539a2f57d4dead@pine-tree-club.local",
+    "date": "2026-06-07",
+    "summary": "3D Archery 7-11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 420,
+    "end": 660
+  },
+  {
+    "uid": "04edb652a66fbf72ead057d4437d407e@pine-tree-club.local",
+    "date": "2026-06-07",
+    "summary": "NRA Metalllic Cartridge Reloading 8-5PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "a0eeb2fcfadab21051cfdf9512ba288a@pine-tree-club.local",
+    "date": "2026-06-07",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "238cd6979368d80e45bc8dea67edcc8f@pine-tree-club.local",
+    "date": "2026-06-07",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "ea11a5e63a19f47da77000be10d7319a@pine-tree-club.local",
+    "date": "2026-06-08",
+    "summary": "RFMRL #05 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "85291ab779b27e62930ad442bc07de92@pine-tree-club.local",
+    "date": "2026-06-08",
+    "summary": "BOD mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "5c0cf4c21eaafe7c64b45e34c9c44fc0@pine-tree-club.local",
+    "date": "2026-06-09",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "8c17761c277a2e7c163aa14033e0fb5e@pine-tree-club.local",
+    "date": "2026-06-10",
+    "summary": "General Membership mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "2e5bab66cbbc0d2049d84d6d8d2d4dda@pine-tree-club.local",
+    "date": "2026-06-11",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "1b66e5ac90f3f3325fdc74f95ed2c20b@pine-tree-club.local",
+    "date": "2026-06-11",
+    "summary": "Skeet Open 4PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 960
+  },
+  {
+    "uid": "9ecedf2043ab99f81753e7197c04514b@pine-tree-club.local",
+    "date": "2026-06-11",
+    "summary": "Trap Open 5PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1020
+  },
+  {
+    "uid": "15dbc3825a1d3eba7e31665726c7358c@pine-tree-club.local",
+    "date": "2026-06-12",
+    "summary": "NRA Pistol Outside the Home Defense 6-9",
+    "category": "Classes",
+    "cancelled": true,
+    "issue": "No unambiguous AM/PM time"
+  },
+  {
+    "uid": "2be62cee3b2b6842ab50fb690a110f8c@pine-tree-club.local",
+    "date": "2026-06-13",
+    "summary": "NRA Pistol Outside the Home Defense 8-5PM",
+    "category": "Classes",
+    "cancelled": true,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "7b64028aba93082820521b04603f411f@pine-tree-club.local",
+    "date": "2026-06-13",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "727b4894530a9601733e367201121028@pine-tree-club.local",
+    "date": "2026-06-13",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "36846d3ebec8d568ac909d2966ba3ee4@pine-tree-club.local",
+    "date": "2026-06-13",
+    "summary": "CFL 200yd Score 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "72cd479baf1f336c0f01167a9042cdfd@pine-tree-club.local",
+    "date": "2026-06-13",
+    "summary": "Hall Rental 5-9PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1020,
+    "end": 1260
+  },
+  {
+    "uid": "5c124282af8171827ed2cf5116704430@pine-tree-club.local",
+    "date": "2026-06-14",
+    "summary": "K9 Bike Run Fund Raiser",
+    "category": "Club",
+    "cancelled": false,
+    "issue": "No unambiguous AM/PM time"
+  },
+  {
+    "uid": "9147b2e9bf30e0c35914c5085839daa8@pine-tree-club.local",
+    "date": "2026-06-14",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "f46d6c008a9bfef20a430c9ddf37e081@pine-tree-club.local",
+    "date": "2026-06-14",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "820cc3eebea6b50d620671a398ba246b@pine-tree-club.local",
+    "date": "2026-06-15",
+    "summary": "RFBRL #06 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "b79a1eff2cc9c1e7953957ef968878bc@pine-tree-club.local",
+    "date": "2026-06-16",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "5f690af80dd06a267f9fad8dcb1a1081@pine-tree-club.local",
+    "date": "2026-06-17",
+    "summary": "NO CLUB DINNER Due to K9 Ride",
+    "category": "Club",
+    "cancelled": true,
+    "issue": "No unambiguous AM/PM time"
+  },
+  {
+    "uid": "8d7926ac5066c139747fc93a4be43c3d@pine-tree-club.local",
+    "date": "2026-06-18",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "6fdac2dcd180c69c1f2c28898cfcc3d4@pine-tree-club.local",
+    "date": "2026-06-18",
+    "summary": "Today at 4PM a $3.00 special for Skeet & Trap. At 5:30 a Spaghetti dinner with meatballs, sausage and bread.",
+    "category": "Club",
+    "cancelled": false,
+    "start": 960
+  },
+  {
+    "uid": "a80ce2c9e7f51af5031b26eed07dae45@pine-tree-club.local",
+    "date": "2026-06-19",
+    "summary": "CR Miller 100 3pm registration match 4pm",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "747730c66f9fb4313b4750c0f54d5a84@pine-tree-club.local",
+    "date": "2026-06-20",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "ebe27ee8300bdda0a0c10103985f1531@pine-tree-club.local",
+    "date": "2026-06-20",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "151ac8ffa3d6f3819710da439c9ea6f2@pine-tree-club.local",
+    "date": "2026-06-20",
+    "summary": "RF Golf Outing 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "7ee9262cf1feca0cb5dd2b0c594e7ecc@pine-tree-club.local",
+    "date": "2026-06-21",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "2c04603bf87940aa6fd7ab948679e9a9@pine-tree-club.local",
+    "date": "2026-06-21",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "18011569e86911af4c247d1c09273e94@pine-tree-club.local",
+    "date": "2026-06-22",
+    "summary": "RFBRL #07 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "b6d546b3187ec68f32618d4d04e85077@pine-tree-club.local",
+    "date": "2026-06-23",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "1415c2780098ec06bb50307622a567de@pine-tree-club.local",
+    "date": "2026-06-23",
+    "summary": "Hall Rental 6-10PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1080,
+    "end": 1320
+  },
+  {
+    "uid": "a43fee3cca23cdbe0a6bcc57addd5050@pine-tree-club.local",
+    "date": "2026-06-25",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "d18c5d47e4874dee8aafee41ef282bec@pine-tree-club.local",
+    "date": "2026-06-25",
+    "summary": "Skeet Open 4PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 960
+  },
+  {
+    "uid": "887b16eb3999844fb92101fcf6aaa53e@pine-tree-club.local",
+    "date": "2026-06-25",
+    "summary": "Trap Open 5PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1020
+  },
+  {
+    "uid": "9ee12512ad85af0687a35388cb96d0b0@pine-tree-club.local",
+    "date": "2026-06-26",
+    "summary": "IBS REGISTRATION 4pm",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 960
+  },
+  {
+    "uid": "a2ea0e452c6e17dcc1174e454f4f0ac0@pine-tree-club.local",
+    "date": "2026-06-27",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "b63a4e739d2a73d4bfd94f60996a9594@pine-tree-club.local",
+    "date": "2026-06-27",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "29565e4ca0c155dea3e8fb3a94ec5d00@pine-tree-club.local",
+    "date": "2026-06-27",
+    "summary": "HALL RENTAL 2-6PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 840,
+    "end": 1080
+  },
+  {
+    "uid": "af44c5831086471c50e0295aa2d0020f@pine-tree-club.local",
+    "date": "2026-06-27",
+    "summary": "IBS 100yd Moretzo Group 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "ea047f85ab927bfdd72d01275529473b@pine-tree-club.local",
+    "date": "2026-06-28",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "f8dccecf6d9047417693a15d7c6322c6@pine-tree-club.local",
+    "date": "2026-06-28",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "f300b53e1608bef7da643a43ae15b7fe@pine-tree-club.local",
+    "date": "2026-06-28",
+    "summary": "IBS 200yd Moretzo Group 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "315fc1efddd86cfa721a7bbc19b7d82e@pine-tree-club.local",
+    "date": "2026-06-28",
+    "summary": "Hall Rental 3-7PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 900,
+    "end": 1140
+  },
+  {
+    "uid": "d992c11562aafa41b599cc2b10ebee8e@pine-tree-club.local",
+    "date": "2026-06-29",
+    "summary": "RFBRL #08 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "c72f9ed2bc819a430fcabd065967780b@pine-tree-club.local",
+    "date": "2026-07-02",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "8f68f6753ce53e9e676feacef1127adc@pine-tree-club.local",
+    "date": "2026-07-04",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "c9a10c262121a18627d8a1c3759fa6ee@pine-tree-club.local",
+    "date": "2026-07-04",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "07649647e19c3b97eb098b057af79249@pine-tree-club.local",
+    "date": "2026-07-05",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "99871a1477dadcacb861985040e33c27@pine-tree-club.local",
+    "date": "2026-07-05",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "85958cb2deed1a2afb97b3cac1bc29b3@pine-tree-club.local",
+    "date": "2026-07-06",
+    "summary": "BOD mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "33119e3e6c5537a5445b1635bdc0d75f@pine-tree-club.local",
+    "date": "2026-07-07",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "38d1b46846bfcc08ce218d8646c4c3b5@pine-tree-club.local",
+    "date": "2026-07-07",
+    "summary": "22LR Bowling Pin Challenge 5:30",
+    "category": "Matches",
+    "cancelled": false,
+    "issue": "No unambiguous AM/PM time"
+  },
+  {
+    "uid": "ad89c08f5db39373b718931c1c2b755d@pine-tree-club.local",
+    "date": "2026-07-08",
+    "summary": "General Membership mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "6786c1abc2152ff48635dddffc3185f6@pine-tree-club.local",
+    "date": "2026-07-09",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "c6edfe895eb0645aa645b698101ee1d0@pine-tree-club.local",
+    "date": "2026-07-11",
+    "summary": "NRA Range Safety Officer course 8-5PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "93c8741938b7e8858eb979fa4ca306a1@pine-tree-club.local",
+    "date": "2026-07-11",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "785f7b1a8be676fcc241fed0a0dbb853@pine-tree-club.local",
+    "date": "2026-07-11",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "0914810eee8587e995e9468b901f083a@pine-tree-club.local",
+    "date": "2026-07-12",
+    "summary": "3D Archery 7-11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 420,
+    "end": 660
+  },
+  {
+    "uid": "27d5575085cc3591e45cc23a0161c5ac@pine-tree-club.local",
+    "date": "2026-07-12",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "2fd8e0a0af591c144b43079685b8939e@pine-tree-club.local",
+    "date": "2026-07-12",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "147da81e70b3f6ea49fd81159c62cee1@pine-tree-club.local",
+    "date": "2026-07-13",
+    "summary": "RFBRL #09 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "2fc48cc5afffd69a0752f8393b94f279@pine-tree-club.local",
+    "date": "2026-07-14",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "dd464eada54388dd2e8675d9f4752f6c@pine-tree-club.local",
+    "date": "2026-07-15",
+    "summary": "Club Dinner to be announced",
+    "category": "Club",
+    "cancelled": false,
+    "issue": "No time supplied"
+  },
+  {
+    "uid": "894ff6eae62216328f02822203649e3c@pine-tree-club.local",
+    "date": "2026-07-16",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "7971f89af9befd923e8f915177211dd2@pine-tree-club.local",
+    "date": "2026-07-17",
+    "summary": "CR DelSavio 200yd 4PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 960
+  },
+  {
+    "uid": "7ca9cb80ab22b337af8bf019895c1555@pine-tree-club.local",
+    "date": "2026-07-17",
+    "summary": "NYS Pistol License Class 6-9PM",
+    "category": "Classes",
+    "cancelled": false,
+    "start": 1080,
+    "end": 1260
+  },
+  {
+    "uid": "e1f5bdff64eec9d2149a578555ba0b6b@pine-tree-club.local",
+    "date": "2026-07-18",
+    "summary": "NYS Pistol License Class 8-5PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "051257e7a11d32326291ec54db1ab773@pine-tree-club.local",
+    "date": "2026-07-18",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "872a439cacd1870ce77dac87c42e4225@pine-tree-club.local",
+    "date": "2026-07-18",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "515e491930c0e3097e4a1053a581e93e@pine-tree-club.local",
+    "date": "2026-07-18",
+    "summary": "CR Top Gun Rifleman's",
+    "category": "Club",
+    "cancelled": false,
+    "issue": "No time supplied"
+  },
+  {
+    "uid": "0516091a2dded6c10dff81c03c90015e@pine-tree-club.local",
+    "date": "2026-07-18",
+    "summary": "X-Treem Challenge 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "4dee1fda21cab4aa577b19656d3f866f@pine-tree-club.local",
+    "date": "2026-07-19",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "fe75b697c56c1a2450f97075fe8cb9d8@pine-tree-club.local",
+    "date": "2026-07-19",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "8a2098f1d2b0443a870374c1e01e3a9b@pine-tree-club.local",
+    "date": "2026-07-19",
+    "summary": "4H Shotgun Range 1:00-2:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 780,
+    "end": 870
+  },
+  {
+    "uid": "49215009a23411b9ba677c6ca612d0d3@pine-tree-club.local",
+    "date": "2026-07-20",
+    "summary": "RFBRL #10 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "139ee5a7e3af41097116548fd593c1f1@pine-tree-club.local",
+    "date": "2026-07-20",
+    "summary": "NYS Pistol License Class 6PM till",
+    "category": "Classes",
+    "cancelled": false,
+    "start": 1080
+  },
+  {
+    "uid": "fa5f75be84dbf141fc4b557684355cd1@pine-tree-club.local",
+    "date": "2026-07-21",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "c027a34b643f28dff3197de736eae593@pine-tree-club.local",
+    "date": "2026-07-22",
+    "summary": "4H Shotgun Range 12:30-2:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 750,
+    "end": 870
+  },
+  {
+    "uid": "280e92b6cb2576b9beee648cce1f3ca9@pine-tree-club.local",
+    "date": "2026-07-23",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "0fd3ea5139bdf3396fae3e7ad823a752@pine-tree-club.local",
+    "date": "2026-07-25",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "c4ca78d0893360f0eb424285b055c866@pine-tree-club.local",
+    "date": "2026-07-25",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "1fe20197da27bd21382dc099551c485c@pine-tree-club.local",
+    "date": "2026-07-25",
+    "summary": "IBS 100yd 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "438e8fcde1079e2ea364030f5041a99f@pine-tree-club.local",
+    "date": "2026-07-26",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "832de7411b2b6e816472e34fe41434ef@pine-tree-club.local",
+    "date": "2026-07-26",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "f80e2718fd6730960143e156b9d11f76@pine-tree-club.local",
+    "date": "2026-07-26",
+    "summary": "RF Lollypop Challenge 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "e17f16e8366e2772760cd3459353f681@pine-tree-club.local",
+    "date": "2026-07-26",
+    "summary": "4H Shotgun Range 1:00-2:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 780,
+    "end": 870
+  },
+  {
+    "uid": "e8e089556b0b5fd48021da3635c6512c@pine-tree-club.local",
+    "date": "2026-07-27",
+    "summary": "RFBRL #11 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "3a15649f726995ba5d26fa0b9e706cdc@pine-tree-club.local",
+    "date": "2026-07-28",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "18ffd225024f26c6d190d4aa3aa10e67@pine-tree-club.local",
+    "date": "2026-07-28",
+    "summary": "9MM Combat Challenge 5:30",
+    "category": "Matches",
+    "cancelled": false,
+    "issue": "No unambiguous AM/PM time"
+  },
+  {
+    "uid": "9b88915e451707bee669da5677da6de6@pine-tree-club.local",
+    "date": "2026-07-30",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "a42f5c4f7a4d2bb3f5055d61149bc5e7@pine-tree-club.local",
+    "date": "2026-08-01",
+    "summary": "DEC HUNTER ED RIFLE 8-4PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "5a8de45865d1ea87e852e5743e7579e3@pine-tree-club.local",
+    "date": "2026-08-01",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "9cfb52212d697caeeb771fdf353b907d@pine-tree-club.local",
+    "date": "2026-08-01",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "5ba0c722298bedccf48a471513977d1d@pine-tree-club.local",
+    "date": "2026-08-01",
+    "summary": "CFL 100yd Score 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "4f604a0c14af22efe9b84a372fefa4be@pine-tree-club.local",
+    "date": "2026-08-02",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "b452462a1bf0e9adf62178cf3091bbac@pine-tree-club.local",
+    "date": "2026-08-02",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "df67ca6d950aa2f459463861b0c6a4bb@pine-tree-club.local",
+    "date": "2026-08-02",
+    "summary": "4H Shotgun Range 1:00-2:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 780,
+    "end": 870
+  },
+  {
+    "uid": "bb1093648bf3ec5e1e97fd9f2507b83c@pine-tree-club.local",
+    "date": "2026-08-03",
+    "summary": "RFBRL #12 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "e320656f5e6a3360fc2d922eb33ad53e@pine-tree-club.local",
+    "date": "2026-08-04",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "087892fd69daa5808db4efae972250bb@pine-tree-club.local",
+    "date": "2026-08-04",
+    "summary": "RFBRL #12 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "7d17560174138968c623b0a335b5c230@pine-tree-club.local",
+    "date": "2026-08-06",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "28dd458915027046c3dc9b6ea6293de0@pine-tree-club.local",
+    "date": "2026-08-07",
+    "summary": "NRA Pistol In Home Defense 6-9PM",
+    "category": "Classes",
+    "cancelled": false,
+    "start": 1080,
+    "end": 1260
+  },
+  {
+    "uid": "9beb672977e6f7356f1a12eb65466182@pine-tree-club.local",
+    "date": "2026-08-08",
+    "summary": "NRA Pistol In Home Defense 8-5PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "c8e89080733e346e1429725f685dabf7@pine-tree-club.local",
+    "date": "2026-08-08",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "a80f959016ff55a8129de84ea35081e6@pine-tree-club.local",
+    "date": "2026-08-08",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "5a0adfe7de7365ccdaa7c3e9747ebd23@pine-tree-club.local",
+    "date": "2026-08-08",
+    "summary": "CR Top Gun Rifleman's Scramble 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "ce1862a7cbef8442f3e933f59d14015c@pine-tree-club.local",
+    "date": "2026-08-09",
+    "summary": "3D Archery 7-11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 420,
+    "end": 660
+  },
+  {
+    "uid": "bc6bde595701e53c2c20048b9cbeceb2@pine-tree-club.local",
+    "date": "2026-08-09",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "3408bfc420f1f5877f620dddd230d774@pine-tree-club.local",
+    "date": "2026-08-09",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "b60b4d3902bceea828e7ad4f684e5fe9@pine-tree-club.local",
+    "date": "2026-08-09",
+    "summary": "4H Shotgun Range 1:00-2:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 780,
+    "end": 870
+  },
+  {
+    "uid": "cebe3e64e40f982e2713c6b9816d5c83@pine-tree-club.local",
+    "date": "2026-08-10",
+    "summary": "RFBRL #13 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "6faa9d1d42430efb564df151a99b0846@pine-tree-club.local",
+    "date": "2026-08-10",
+    "summary": "BOD 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "b156a63f5e86d133cc5e697ead2bddf6@pine-tree-club.local",
+    "date": "2026-08-11",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "eb6cdfee35eee5859b8125158e528134@pine-tree-club.local",
+    "date": "2026-08-12",
+    "summary": "General Membership Mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "8f8da89ffdcfb323a61d5e6a7a5b2c03@pine-tree-club.local",
+    "date": "2026-08-13",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "1e4005129ce785d41eeab2d89beceacc@pine-tree-club.local",
+    "date": "2026-08-14",
+    "summary": "CF Miller Group 200 4PM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 960
+  },
+  {
+    "uid": "302db6eb7a7096784c3193b0cf02f6a2@pine-tree-club.local",
+    "date": "2026-08-15",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "0870cf09591d69452f7680301691de1d@pine-tree-club.local",
+    "date": "2026-08-15",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "bb6dd2c058387b461bffba511c819883@pine-tree-club.local",
+    "date": "2026-08-15",
+    "summary": "RF 200yd Score 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "b9d2b42f18d02cf6ab6f5fd90d4a43ac@pine-tree-club.local",
+    "date": "2026-08-16",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "0208fdacc6f5d891834d5604fbb04fea@pine-tree-club.local",
+    "date": "2026-08-16",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "09f811281d6e8cdc689a6dabbe4c9ff5@pine-tree-club.local",
+    "date": "2026-08-16",
+    "summary": "4H Shotgun Range 1:00-2:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 780,
+    "end": 870
+  },
+  {
+    "uid": "fa6574c3901bb6783e2948ba0a76b0b5@pine-tree-club.local",
+    "date": "2026-08-17",
+    "summary": "RFBRL #14 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "26e3db110e23b87d93a7ac20934b8457@pine-tree-club.local",
+    "date": "2026-08-18",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "ca564ad2782ca716c7bd4a72382e9840@pine-tree-club.local",
+    "date": "2026-08-19",
+    "summary": "Club Dinner 6:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1110
+  },
+  {
+    "uid": "4f75d9c7814bc4266a34b945bebb5939@pine-tree-club.local",
+    "date": "2026-08-20",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "a0690340f78301011b71db18bf0e8a65@pine-tree-club.local",
+    "date": "2026-08-20",
+    "summary": "VETERIANS PICNIC CONCORDIA CLUB",
+    "category": "Club",
+    "cancelled": false,
+    "issue": "No time supplied"
+  },
+  {
+    "uid": "0e5b48e46da72d9f1616c4c44ee095de@pine-tree-club.local",
+    "date": "2026-08-22",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "3d323c3d036f682bd9dc87e3a4e3e53e@pine-tree-club.local",
+    "date": "2026-08-22",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "d4c5b0d2d9323d34079385e84f8a44b7@pine-tree-club.local",
+    "date": "2026-08-23",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "f5e9dd746b5022bd2586804b76ec09f6@pine-tree-club.local",
+    "date": "2026-08-23",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "2c4ff6c889564157b87e34984b4e62ed@pine-tree-club.local",
+    "date": "2026-08-24",
+    "summary": "RFBRL #15 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "2fc2e90a94b1f44ebe89295fa0f61e62@pine-tree-club.local",
+    "date": "2026-08-25",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "b3de3225e969594b9eb5c45c44beaecf@pine-tree-club.local",
+    "date": "2026-08-27",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "74400ee10ee1582692ffc83291ae66ee@pine-tree-club.local",
+    "date": "2026-08-28",
+    "summary": "IBS Early registration wkend 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "93ac77dc1e03dabfa3eb9e3cc753b3d7@pine-tree-club.local",
+    "date": "2026-08-29",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "84f53861797cfe6a95f5d7dae2297902@pine-tree-club.local",
+    "date": "2026-08-29",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "107be07cbc0e5efa27c63d339f7fd943@pine-tree-club.local",
+    "date": "2026-08-29",
+    "summary": "IBS 100yd for Score 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "6a91817106d5add7e4e6cbbfaf55bc93@pine-tree-club.local",
+    "date": "2026-08-30",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "ba98f27fa0dd244b407806a6391f0d87@pine-tree-club.local",
+    "date": "2026-08-30",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "442d3e9f9b43a4b7c80e538d02388dae@pine-tree-club.local",
+    "date": "2026-08-30",
+    "summary": "IBS 200yd 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "a5243005c94b3062b0cb903fceb6d4cf@pine-tree-club.local",
+    "date": "2026-08-31",
+    "summary": "RFBRL #16 3PM",
+    "category": "League",
+    "cancelled": false,
+    "start": 900
+  },
+  {
+    "uid": "1d309c9a15eed5738382f5a580bf53ec@pine-tree-club.local",
+    "date": "2026-09-01",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "efe940e078cddeff6f2db4599bdd924b@pine-tree-club.local",
+    "date": "2026-09-03",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "a15d69c4441ad8f12ca0ae06315e6129@pine-tree-club.local",
+    "date": "2026-09-05",
+    "summary": "DEC HUNTER ED BOW 8-4PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "3c9288018129ea8a20601d883284725b@pine-tree-club.local",
+    "date": "2026-09-05",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "8096dc5fc32455b71dd260768e4aaf3c@pine-tree-club.local",
+    "date": "2026-09-05",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "4ee609045dd17517183c55914af84548@pine-tree-club.local",
+    "date": "2026-09-06",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "d7e694abe3a59ce920dcb664a0ffb30b@pine-tree-club.local",
+    "date": "2026-09-06",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "220da5d44ba2e0ae961e620e5cd5db2a@pine-tree-club.local",
+    "date": "2026-09-07",
+    "summary": "BOD 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "92b075e29f35c15923a1fdd53aaa0078@pine-tree-club.local",
+    "date": "2026-09-08",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "07303547f9eac76f0538bcebb10d168f@pine-tree-club.local",
+    "date": "2026-09-09",
+    "summary": "General Membership Mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "98889d690e0642dbf9504389e398e5f8@pine-tree-club.local",
+    "date": "2026-09-10",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "648125d6af6c5ab2fb28b60cc0c5436e@pine-tree-club.local",
+    "date": "2026-09-11",
+    "summary": "NRA Pistol Outside Home Defense 6-9PM",
+    "category": "Classes",
+    "cancelled": false,
+    "start": 1080,
+    "end": 1260
+  },
+  {
+    "uid": "a168171773502fe061c41a4c33c83cc3@pine-tree-club.local",
+    "date": "2026-09-12",
+    "summary": "NRA Pistol Outside Home Defense 8-5PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "c4ad4f56fc43edce87e223c34fabd5b1@pine-tree-club.local",
+    "date": "2026-09-12",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "07ac99bf0ebd00fc8ed03c125ab88d14@pine-tree-club.local",
+    "date": "2026-09-12",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "5153b4c93a3fe07a9bb638dda0e7b1eb@pine-tree-club.local",
+    "date": "2026-09-12",
+    "summary": "IBS 200yd 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "10a636890155787bd126c3fca9cacef3@pine-tree-club.local",
+    "date": "2026-09-13",
+    "summary": "3D Archery 7-11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 420,
+    "end": 660
+  },
+  {
+    "uid": "298c5fe02f01d150f852260aab83702d@pine-tree-club.local",
+    "date": "2026-09-13",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "72b722c61965e8686e1dac02cb134ac2@pine-tree-club.local",
+    "date": "2026-09-13",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "592601e367c4bb1e8f2f0d35b49a2407@pine-tree-club.local",
+    "date": "2026-09-15",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "0112d68796036bfcc391168121e82ff6@pine-tree-club.local",
+    "date": "2026-09-16",
+    "summary": "Club Dinner 6:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1110
+  },
+  {
+    "uid": "ade53a176521f735228baee459b7d58a@pine-tree-club.local",
+    "date": "2026-09-17",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "4587cafa4f94fcc38c739519987fae56@pine-tree-club.local",
+    "date": "2026-09-18",
+    "summary": "NYS Pistol License Class 6-9PM",
+    "category": "Classes",
+    "cancelled": false,
+    "start": 1080,
+    "end": 1260
+  },
+  {
+    "uid": "b075f6ad42f8e2d2db14b840780bf529@pine-tree-club.local",
+    "date": "2026-09-19",
+    "summary": "NYS Pistol License Class 8-5PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "13c94bdef255bbcfb1f665190f42643f@pine-tree-club.local",
+    "date": "2026-09-19",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "73cfee895f7eb8147beb9679917914eb@pine-tree-club.local",
+    "date": "2026-09-19",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "5954e87ab6dcbfeb32c5314e766f2372@pine-tree-club.local",
+    "date": "2026-09-19",
+    "summary": "CF Schuetzenfest 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "eff6b35ff98c96c214ee98c9b18004a7@pine-tree-club.local",
+    "date": "2026-09-20",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "cf39d97e50d98c3c59e026d4fb625e86@pine-tree-club.local",
+    "date": "2026-09-20",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "702c5b963bcbf23328345fc07a027b58@pine-tree-club.local",
+    "date": "2026-09-20",
+    "summary": "RF Bowling 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "7bcd922f2006b87a266447400c5558ed@pine-tree-club.local",
+    "date": "2026-09-20",
+    "summary": "Hall Rental 12-5PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 720,
+    "end": 1020
+  },
+  {
+    "uid": "1200fc0329c5bd3de8aa1fe44c9be445@pine-tree-club.local",
+    "date": "2026-09-21",
+    "summary": "NYS Pistol License Class 6PM till",
+    "category": "Classes",
+    "cancelled": false,
+    "start": 1080
+  },
+  {
+    "uid": "d7a10b6894bb510fcbbb64d9841a61f1@pine-tree-club.local",
+    "date": "2026-09-22",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "24470e0c27d1640a020d1b3078942e7b@pine-tree-club.local",
+    "date": "2026-09-24",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "aca6f2dff38508332348f470054ff262@pine-tree-club.local",
+    "date": "2026-09-26",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "2447cbf137bd8281f2c1210849e51e93@pine-tree-club.local",
+    "date": "2026-09-26",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "4e744b59a882a8cf612ff1be78ab1288@pine-tree-club.local",
+    "date": "2026-09-26",
+    "summary": "CFL 200yd Score 9AM",
+    "category": "Matches",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "bf0b4aa0d0d74e1d64c19223f0d5d721@pine-tree-club.local",
+    "date": "2026-09-27",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "435b59fe9d42e3be199f6539bffac838@pine-tree-club.local",
+    "date": "2026-09-27",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "863d1a4544e3d6fb1d52722f5cb7aaff@pine-tree-club.local",
+    "date": "2026-09-29",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "b5f77a84b34a945d1bfc1e733531df86@pine-tree-club.local",
+    "date": "2026-10-01",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "f2ca9a5d731d150dd83d1499719e4f7c@pine-tree-club.local",
+    "date": "2026-10-03",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "3f3d575178ae45cc249784ec71f7541a@pine-tree-club.local",
+    "date": "2026-10-03",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "839ac42dbdc70969980bfc19c8a1fba6@pine-tree-club.local",
+    "date": "2026-10-04",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "9ad10dcce7f484d409a27ff2ca82fe94@pine-tree-club.local",
+    "date": "2026-10-04",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "61acbf850dc4fb64306cffa7220f2aa1@pine-tree-club.local",
+    "date": "2026-10-06",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "a1a8161c69464023c5cb929e9ba681ce@pine-tree-club.local",
+    "date": "2026-10-08",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "0d8e0e6a9d9486946fbf4e9b3ebe9386@pine-tree-club.local",
+    "date": "2026-10-10",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "5c9b5182501b09a092355247e3b5fcda@pine-tree-club.local",
+    "date": "2026-10-10",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "b953c017c18c4aa6a7859eeb6d2acae0@pine-tree-club.local",
+    "date": "2026-10-11",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "97bc1d5972209be88694aa5706ae55b1@pine-tree-club.local",
+    "date": "2026-10-11",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "d7fa405c769ef1d97b8b367590578695@pine-tree-club.local",
+    "date": "2026-10-12",
+    "summary": "BOD 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "847fef19f4c58913abb2d307a5c804b6@pine-tree-club.local",
+    "date": "2026-10-13",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "1fe472703133bff42ee9155e74040107@pine-tree-club.local",
+    "date": "2026-10-14",
+    "summary": "General Membership Mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "7830943dc1f28e0e363396ab28c7feb3@pine-tree-club.local",
+    "date": "2026-10-15",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "c18766a9e1a77b2b8ee7dd63b45a9146@pine-tree-club.local",
+    "date": "2026-10-17",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "c10a92935c7b4ee57eabd0caca2ebff6@pine-tree-club.local",
+    "date": "2026-10-17",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "332676a68acd74ec5514c5d0ede0f5b4@pine-tree-club.local",
+    "date": "2026-10-17",
+    "summary": "Hall Rental 1-5PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 780,
+    "end": 1020
+  },
+  {
+    "uid": "ffe55d86847ac221f4200733c73b5b28@pine-tree-club.local",
+    "date": "2026-10-18",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "116c2b0cc78f470679e05999a4fd97c4@pine-tree-club.local",
+    "date": "2026-10-18",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "9feefb16bc930bbcfb3037ea3f5662f1@pine-tree-club.local",
+    "date": "2026-10-20",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "db6c43c7baf318d8edbfe74b7675ccdb@pine-tree-club.local",
+    "date": "2026-10-21",
+    "summary": "Club Dinner 6:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1110
+  },
+  {
+    "uid": "dc86db416570cb1657962d86a7459b4a@pine-tree-club.local",
+    "date": "2026-10-22",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "2a7d7835ebbb5dba4cf8fb1a1eba7155@pine-tree-club.local",
+    "date": "2026-10-24",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "398550e611759d5d897cd2747cec0ff8@pine-tree-club.local",
+    "date": "2026-10-24",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "8a3f72fef9e6ccc979aace799609d1a9@pine-tree-club.local",
+    "date": "2026-10-25",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "4ad38f445eb144cd20cbc25f973c092e@pine-tree-club.local",
+    "date": "2026-10-25",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "525f2fa226ea9468f9141b2207fde460@pine-tree-club.local",
+    "date": "2026-10-27",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "643cdc4be8ecceccffcb65a5aae29e8a@pine-tree-club.local",
+    "date": "2026-10-29",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "cd7349e1fab88593a16c9800ae98032d@pine-tree-club.local",
+    "date": "2026-11-03",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "80639b3fa7d142e543d84e44f33fe956@pine-tree-club.local",
+    "date": "2026-11-05",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "227acff44308b6ec710e1141ee649cf3@pine-tree-club.local",
+    "date": "2026-11-07",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "c476a043ce11023c34a1f4842e1cfc66@pine-tree-club.local",
+    "date": "2026-11-07",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "3d159283e356276c82901e4520219575@pine-tree-club.local",
+    "date": "2026-11-08",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "2cfa6e2479d4b2ad4ec4fb0e2568a70e@pine-tree-club.local",
+    "date": "2026-11-08",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "bb5d71c6824578c2a1cb92dacc2e6b41@pine-tree-club.local",
+    "date": "2026-11-09",
+    "summary": "BOD 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "ad89f201fb3520a6a7b216c26add8878@pine-tree-club.local",
+    "date": "2026-11-10",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "fb4552843a36e7b011146ae677b11d3a@pine-tree-club.local",
+    "date": "2026-11-11",
+    "summary": "General Membership Mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "47ba8799c16b25daebb455f73b003748@pine-tree-club.local",
+    "date": "2026-11-12",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "13ef98a2f48d746fcc3f9551df459464@pine-tree-club.local",
+    "date": "2026-11-13",
+    "summary": "NYS Pistol License Class 6-9PM",
+    "category": "Classes",
+    "cancelled": false,
+    "start": 1080,
+    "end": 1260
+  },
+  {
+    "uid": "9710bd35f3097e5a74787cddefd28e93@pine-tree-club.local",
+    "date": "2026-11-14",
+    "summary": "NYS Pistol License Class 8-5PM",
+    "category": "Classes",
+    "cancelled": false,
+    "issue": "Start meridiem is unclear or range crosses midnight; time left unspecified"
+  },
+  {
+    "uid": "962b1220fe83d064617a827cd243d08c@pine-tree-club.local",
+    "date": "2026-11-14",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "1c497cf22926770b4629712531641a65@pine-tree-club.local",
+    "date": "2026-11-14",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "10227c2847f4b9910792a981d42908b0@pine-tree-club.local",
+    "date": "2026-11-15",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "ca1d5d07a800ff60b70aafb33089ff75@pine-tree-club.local",
+    "date": "2026-11-15",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "7fe6ff7b952b4f8607c09790c01bff64@pine-tree-club.local",
+    "date": "2026-11-16",
+    "summary": "NYS Pistol License Class 6PM till",
+    "category": "Classes",
+    "cancelled": false,
+    "start": 1080
+  },
+  {
+    "uid": "936c3beea9831723e0b96c9cedd5d155@pine-tree-club.local",
+    "date": "2026-11-17",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "f4bd7e61c010559876985ad9d22ef704@pine-tree-club.local",
+    "date": "2026-11-18",
+    "summary": "Club Dinner 6:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1110
+  },
+  {
+    "uid": "a256d657f4d9fd046278a31c565317b1@pine-tree-club.local",
+    "date": "2026-11-19",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "d4f4fca462451768ea4deea19d9a46ef@pine-tree-club.local",
+    "date": "2026-11-21",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "287a982d8a22b0292d7359ac5bdc2b8c@pine-tree-club.local",
+    "date": "2026-11-21",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "c2d0f7fd7336d912b7ad1a09353c9028@pine-tree-club.local",
+    "date": "2026-11-22",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "12eef0c95f9d90e20f087b2bc1f61bd5@pine-tree-club.local",
+    "date": "2026-11-22",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "f443950e1a7f3105ba5144856f45b62b@pine-tree-club.local",
+    "date": "2026-11-24",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "2946c7d7d3bd1b6d6b3857b339d0f1ac@pine-tree-club.local",
+    "date": "2026-11-26",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "376ad9dc3b16faec1b1458fb62e607ce@pine-tree-club.local",
+    "date": "2026-11-28",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "44769f5f92198139f329afb5e725a4c2@pine-tree-club.local",
+    "date": "2026-11-28",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "f4af581c2a952da05f9c7726433227f9@pine-tree-club.local",
+    "date": "2026-11-29",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "1d8b11106d925bc6e44019e5a987208e@pine-tree-club.local",
+    "date": "2026-11-29",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "191a49921dee23e79189a04417e2d2d8@pine-tree-club.local",
+    "date": "2026-12-01",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "d086b53e70d162d23b9d8904bc13a953@pine-tree-club.local",
+    "date": "2026-12-03",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "e228d462f7e05be561e8bf7a45744bd7@pine-tree-club.local",
+    "date": "2026-12-05",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "62057cf3a51143046aa171a95a08b6ec@pine-tree-club.local",
+    "date": "2026-12-05",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "a750c6d0565ed1c40883542ed5266dae@pine-tree-club.local",
+    "date": "2026-12-06",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "de04d99fe2ac111d85cbb52c605953fd@pine-tree-club.local",
+    "date": "2026-12-06",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "92b54d8bd48dc4c3eb663118edacfcc1@pine-tree-club.local",
+    "date": "2026-12-07",
+    "summary": "BOD 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "4f304c3401c7ddc9cd4ec84587d88fe3@pine-tree-club.local",
+    "date": "2026-12-08",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "8aa42996439074371b71e9b5ba2dbfb2@pine-tree-club.local",
+    "date": "2026-12-09",
+    "summary": "General Membership Mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "9b0ae1f84e835ce231bc006505b523c5@pine-tree-club.local",
+    "date": "2026-12-10",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "a454617844c177e07980039309ea861d@pine-tree-club.local",
+    "date": "2026-12-12",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "1b8fde050ef6d60f5d49e0ce7c9a09be@pine-tree-club.local",
+    "date": "2026-12-12",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "2deb2fc5fd6b8db4a2c7f83147fc14e3@pine-tree-club.local",
+    "date": "2026-12-13",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "cb93eac655938c2202174cb2da61b2df@pine-tree-club.local",
+    "date": "2026-12-13",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "b79ebf3ae02618837ca9545068808a74@pine-tree-club.local",
+    "date": "2026-12-15",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "b66f6d162080ab5b54f9775901c88199@pine-tree-club.local",
+    "date": "2026-12-16",
+    "summary": "Club Dinner 6:30PM TBA",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1110
+  },
+  {
+    "uid": "90e6a6fd4e3264ad90837f350eae8855@pine-tree-club.local",
+    "date": "2026-12-17",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "612a39cd84b39d666bdd10c86325cb5c@pine-tree-club.local",
+    "date": "2026-12-19",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "0759dcabd6c3dc34462e306df3a1c719@pine-tree-club.local",
+    "date": "2026-12-19",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "c8df39313d5509a969f1540e0c62c60d@pine-tree-club.local",
+    "date": "2026-12-20",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "8bd3d5bf9b4bcdfad52e44b27f9ceca2@pine-tree-club.local",
+    "date": "2026-12-20",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "78903284afc67b3636d196e48972a810@pine-tree-club.local",
+    "date": "2026-12-22",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "d8ed9ed6ebbcad9f0527ed16c57df77c@pine-tree-club.local",
+    "date": "2026-12-24",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "ba25c56b3f99287aa45115b6b4727025@pine-tree-club.local",
+    "date": "2026-12-26",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "e0c36050367211bd80640cccbdc6c2d5@pine-tree-club.local",
+    "date": "2026-12-26",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "7223dbd45de1d82cde6c4b74d603f287@pine-tree-club.local",
+    "date": "2026-12-27",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "8fd02f6f722d760bcd79a66d66a2b756@pine-tree-club.local",
+    "date": "2026-12-27",
+    "summary": "Trap 11AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 660
+  },
+  {
+    "uid": "bf79981d145fe5aada2e7d1e48edb45c@pine-tree-club.local",
+    "date": "2026-12-29",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "fcd7479fdecc763cac53cd50cc0e91c0@pine-tree-club.local",
+    "date": "2026-12-31",
+    "summary": "Skeet 9AM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 540
+  },
+  {
+    "uid": "c751a65943bd5a1b4f9c87fd9100b0cd@pine-tree-club.local",
+    "date": "2027-01-11",
+    "summary": "BOD 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "6462c4dbbd41d805516d76220334b11a@pine-tree-club.local",
+    "date": "2027-01-13",
+    "summary": "Gen Mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "303f02b6307860f12cb16c3c9dafa873@pine-tree-club.local",
+    "date": "2027-01-20",
+    "summary": "Club Dinner 6:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1110
+  },
+  {
+    "uid": "9ae05ec379f1f9cc2702738193b838ae@pine-tree-club.local",
+    "date": "2027-02-08",
+    "summary": "BOD 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "c7ef2310f4e525fde310e4b99869d54e@pine-tree-club.local",
+    "date": "2027-02-10",
+    "summary": "Gen Mtg 7PM",
+    "category": "Meetings",
+    "cancelled": false,
+    "start": 1140
+  },
+  {
+    "uid": "1d6e903fd8f408421c151c104c3c5558@pine-tree-club.local",
+    "date": "2027-02-17",
+    "summary": "Club Dinner 6:30PM",
+    "category": "Club",
+    "cancelled": false,
+    "start": 1110
+  }
+]

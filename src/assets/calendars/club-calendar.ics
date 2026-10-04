@@ -1,0 +1,3052 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pine Tree Rifle Club//Recovered Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Pine Tree Rifle Club — recovered schedule
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:DAYLIGHT
+DTSTART:20070311T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20071104T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:75041858a3f7c2bcfb29443ae508048f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260601T150000
+SUMMARY:RFBRL #04 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #04 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:64c4480154adc9092db3a18acede2010@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260602T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0fae60c3eb5319e563af0ca07f9a8d9d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260604T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:3cde96a7f187c24f2ad6fd9bd7bd02be@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260604T160000
+SUMMARY:Skeet Open 4PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet Open 4PM\nSource snapshot: June
+  25\, 2026. Confirm current details with the club.\nWhenever there is a fu
+ nction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:6eca578e7e512d57425dfa6214cccffd@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260604T170000
+SUMMARY:Trap Open 5PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap Open 5PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a99f0ae213c4e8e5436cccee3926dd60@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260605T170000
+DTEND;TZID=America/New_York:20260605T210000
+SUMMARY:Hall Rental 5-9PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Hall Rental 5-9PM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5e348895691122f1be4c4ed6ee9f8030@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260606T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:24e1bebe22a054517b6ade38435b2257@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260606T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:e448f4332af72ca92ae188d92b2f3337@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260606T130000
+DTEND;TZID=America/New_York:20260606T160000
+SUMMARY:HALL RENTAL 1-4PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: HALL RENTAL 1-4PM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ae66278b7bab87fa0c66eb5d397dc14e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260606T090000
+SUMMARY:CF TOP GUN Riflem's Team Challenge 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: CF TOP GUN Riflem's Team Challenge 9A
+ M\nSource snapshot: June 25\, 2026. Confirm current details with the club.
+ \nWhenever there is a function in the Main Hall\, the indoor range is clos
+ ed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:addeadefbbbeeeae37539a2f57d4dead@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260607T070000
+DTEND;TZID=America/New_York:20260607T110000
+SUMMARY:3D Archery 7-11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 3D Archery 7-11AM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:04edb652a66fbf72ead057d4437d407e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+TRANSP:TRANSPARENT
+SUMMARY:NRA Metalllic Cartridge Reloading 8-5PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NRA Metalllic Cartridge Reloading 8-5
+ PM\nSource snapshot: June 25\, 2026. Confirm current details with the club
+ .\nTime is unspecified: Start meridiem is unclear or range crosses midnigh
+ t\; time left unspecified. This date entry does not imply an all-day activ
+ ity.\nWhenever there is a function in the Main Hall\, the indoor range is 
+ closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0eeb2fcfadab21051cfdf9512ba288a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260607T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:238cd6979368d80e45bc8dea67edcc8f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260607T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea11a5e63a19f47da77000be10d7319a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260608T150000
+SUMMARY:RFMRL #05 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFMRL #05 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:85291ab779b27e62930ad442bc07de92@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260608T190000
+SUMMARY:BOD mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD mtg 7PM\nSource snapshot: June 25
+ \, 2026. Confirm current details with the club.\nWhenever there is a funct
+ ion in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c0cf4c21eaafe7c64b45e34c9c44fc0@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260609T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:8c17761c277a2e7c163aa14033e0fb5e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260610T190000
+SUMMARY:General Membership mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: General Membership mtg 7PM\nSource sn
+ apshot: June 25\, 2026. Confirm current details with the club.\nWhenever t
+ here is a function in the Main Hall\, the indoor range is closed for safet
+ y.
+END:VEVENT
+BEGIN:VEVENT
+UID:2e5bab66cbbc0d2049d84d6d8d2d4dda@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260611T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1b66e5ac90f3f3325fdc74f95ed2c20b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260611T160000
+SUMMARY:Skeet Open 4PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet Open 4PM\nSource snapshot: June
+  25\, 2026. Confirm current details with the club.\nWhenever there is a fu
+ nction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ecedf2043ab99f81753e7197c04514b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260611T170000
+SUMMARY:Trap Open 5PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap Open 5PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:15dbc3825a1d3eba7e31665726c7358c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+TRANSP:TRANSPARENT
+SUMMARY:NRA Pistol Outside the Home Defense 6-9
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NRA Pistol Outside the Home Defense 6
+ -9\nSource snapshot: June 25\, 2026. Confirm current details with the club
+ .\nTime is unspecified: No unambiguous AM/PM time. This date entry does no
+ t imply an all-day activity.\nWhenever there is a function in the Main Hal
+ l\, the indoor range is closed for safety.
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:2be62cee3b2b6842ab50fb690a110f8c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+TRANSP:TRANSPARENT
+SUMMARY:NRA Pistol Outside the Home Defense 8-5PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NRA Pistol Outside the Home Defense 8
+ -5PM\nSource snapshot: June 25\, 2026. Confirm current details with the cl
+ ub.\nTime is unspecified: Start meridiem is unclear or range crosses midni
+ ght\; time left unspecified. This date entry does not imply an all-day act
+ ivity.\nWhenever there is a function in the Main Hall\, the indoor range i
+ s closed for safety.
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:7b64028aba93082820521b04603f411f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260613T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:727b4894530a9601733e367201121028@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260613T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:36846d3ebec8d568ac909d2966ba3ee4@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260613T090000
+SUMMARY:CFL 200yd Score 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: CFL 200yd Score 9AM\nSource snapshot:
+  June 25\, 2026. Confirm current details with the club.\nWhenever there is
+  a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:72cd479baf1f336c0f01167a9042cdfd@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260613T170000
+DTEND;TZID=America/New_York:20260613T210000
+SUMMARY:Hall Rental 5-9PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Hall Rental 5-9PM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c124282af8171827ed2cf5116704430@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+TRANSP:TRANSPARENT
+SUMMARY:K9 Bike Run Fund Raiser
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: K9 Bike Run Fund Raiser\nSource snaps
+ hot: June 25\, 2026. Confirm current details with the club.\nTime is unspe
+ cified: No unambiguous AM/PM time. This date entry does not imply an all-d
+ ay activity.\nWhenever there is a function in the Main Hall\, the indoor r
+ ange is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9147b2e9bf30e0c35914c5085839daa8@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260614T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f46d6c008a9bfef20a430c9ddf37e081@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260614T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:820cc3eebea6b50d620671a398ba246b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260615T150000
+SUMMARY:RFBRL #06 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #06 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b79a1eff2cc9c1e7953957ef968878bc@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260616T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f690af80dd06a267f9fad8dcb1a1081@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+TRANSP:TRANSPARENT
+SUMMARY:NO CLUB DINNER Due to K9 Ride
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: NO CLUB DINNER Due to K9 Ride\nSource
+  snapshot: June 25\, 2026. Confirm current details with the club.\nTime is
+  unspecified: No unambiguous AM/PM time. This date entry does not imply an
+  all-day activity.\nWhenever there is a function in the Main Hall\, the in
+ door range is closed for safety.
+STATUS:CANCELLED
+END:VEVENT
+BEGIN:VEVENT
+UID:8d7926ac5066c139747fc93a4be43c3d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260618T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:6fdac2dcd180c69c1f2c28898cfcc3d4@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260618T160000
+SUMMARY:Today at 4PM a $3.00 special for Skeet & Trap. At 5:30 a Spaghetti 
+ dinner with meatballs\, sausage and bread.
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Today at 4PM a $3.00 special for Skee
+ t & Trap. At 5:30 a Spaghetti dinner with meatballs\, sausage and bread.\n
+ Source snapshot: June 25\, 2026. Confirm current details with the club.\nW
+ henever there is a function in the Main Hall\, the indoor range is closed 
+ for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a80ce2c9e7f51af5031b26eed07dae45@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260619T150000
+SUMMARY:CR Miller 100 3pm registration match 4pm
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: CR Miller 100 3pm registration match 
+ 4pm\nSource snapshot: June 25\, 2026. Confirm current details with the clu
+ b.\nWhenever there is a function in the Main Hall\, the indoor range is cl
+ osed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:747730c66f9fb4313b4750c0f54d5a84@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260620T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ebe27ee8300bdda0a0c10103985f1531@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260620T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:151ac8ffa3d6f3819710da439c9ea6f2@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260620T090000
+SUMMARY:RF Golf Outing 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: RF Golf Outing 9AM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ee9262cf1feca0cb5dd2b0c594e7ecc@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260621T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c04603bf87940aa6fd7ab948679e9a9@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260621T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:18011569e86911af4c247d1c09273e94@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260622T150000
+SUMMARY:RFBRL #07 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #07 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b6d546b3187ec68f32618d4d04e85077@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260623T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1415c2780098ec06bb50307622a567de@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260623T180000
+DTEND;TZID=America/New_York:20260623T220000
+SUMMARY:Hall Rental 6-10PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Hall Rental 6-10PM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a43fee3cca23cdbe0a6bcc57addd5050@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260625T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d18c5d47e4874dee8aafee41ef282bec@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260625T160000
+SUMMARY:Skeet Open 4PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet Open 4PM\nSource snapshot: June
+  25\, 2026. Confirm current details with the club.\nWhenever there is a fu
+ nction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:887b16eb3999844fb92101fcf6aaa53e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260625T170000
+SUMMARY:Trap Open 5PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap Open 5PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee12512ad85af0687a35388cb96d0b0@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260626T160000
+SUMMARY:IBS REGISTRATION 4pm
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: IBS REGISTRATION 4pm\nSource snapshot
+ : June 25\, 2026. Confirm current details with the club.\nWhenever there i
+ s a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a2ea0e452c6e17dcc1174e454f4f0ac0@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260627T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b63a4e739d2a73d4bfd94f60996a9594@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260627T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:29565e4ca0c155dea3e8fb3a94ec5d00@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260627T140000
+DTEND;TZID=America/New_York:20260627T180000
+SUMMARY:HALL RENTAL 2-6PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: HALL RENTAL 2-6PM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:af44c5831086471c50e0295aa2d0020f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260627T090000
+SUMMARY:IBS 100yd Moretzo Group 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: IBS 100yd Moretzo Group 9AM\nSource s
+ napshot: June 25\, 2026. Confirm current details with the club.\nWhenever 
+ there is a function in the Main Hall\, the indoor range is closed for safe
+ ty.
+END:VEVENT
+BEGIN:VEVENT
+UID:ea047f85ab927bfdd72d01275529473b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260628T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f8dccecf6d9047417693a15d7c6322c6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260628T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f300b53e1608bef7da643a43ae15b7fe@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260628T090000
+SUMMARY:IBS 200yd Moretzo Group 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: IBS 200yd Moretzo Group 9AM\nSource s
+ napshot: June 25\, 2026. Confirm current details with the club.\nWhenever 
+ there is a function in the Main Hall\, the indoor range is closed for safe
+ ty.
+END:VEVENT
+BEGIN:VEVENT
+UID:315fc1efddd86cfa721a7bbc19b7d82e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260628T150000
+DTEND;TZID=America/New_York:20260628T190000
+SUMMARY:Hall Rental 3-7PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Hall Rental 3-7PM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d992c11562aafa41b599cc2b10ebee8e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260629T150000
+SUMMARY:RFBRL #08 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #08 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c72f9ed2bc819a430fcabd065967780b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260702T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f68f6753ce53e9e676feacef1127adc@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260704T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a10c262121a18627d8a1c3759fa6ee@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260704T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:07649647e19c3b97eb098b057af79249@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260705T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:99871a1477dadcacb861985040e33c27@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260705T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:85958cb2deed1a2afb97b3cac1bc29b3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260706T190000
+SUMMARY:BOD mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD mtg 7PM\nSource snapshot: June 25
+ \, 2026. Confirm current details with the club.\nWhenever there is a funct
+ ion in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:33119e3e6c5537a5445b1635bdc0d75f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260707T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:38d1b46846bfcc08ce218d8646c4c3b5@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+TRANSP:TRANSPARENT
+SUMMARY:22LR Bowling Pin Challenge 5:30
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: 22LR Bowling Pin Challenge 5:30\nSour
+ ce snapshot: June 25\, 2026. Confirm current details with the club.\nTime 
+ is unspecified: No unambiguous AM/PM time. This date entry does not imply 
+ an all-day activity.\nWhenever there is a function in the Main Hall\, the 
+ indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad89c08f5db39373b718931c1c2b755d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260708T190000
+SUMMARY:General Membership mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: General Membership mtg 7PM\nSource sn
+ apshot: June 25\, 2026. Confirm current details with the club.\nWhenever t
+ here is a function in the Main Hall\, the indoor range is closed for safet
+ y.
+END:VEVENT
+BEGIN:VEVENT
+UID:6786c1abc2152ff48635dddffc3185f6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260709T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c6edfe895eb0645aa645b698101ee1d0@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+TRANSP:TRANSPARENT
+SUMMARY:NRA Range Safety Officer course 8-5PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NRA Range Safety Officer course 8-5PM
+ \nSource snapshot: June 25\, 2026. Confirm current details with the club.\
+ nTime is unspecified: Start meridiem is unclear or range crosses midnight\
+ ; time left unspecified. This date entry does not imply an all-day activit
+ y.\nWhenever there is a function in the Main Hall\, the indoor range is cl
+ osed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:93c8741938b7e8858eb979fa4ca306a1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260711T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:785f7b1a8be676fcc241fed0a0dbb853@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260711T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0914810eee8587e995e9468b901f083a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260712T070000
+DTEND;TZID=America/New_York:20260712T110000
+SUMMARY:3D Archery 7-11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 3D Archery 7-11AM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:27d5575085cc3591e45cc23a0161c5ac@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260712T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2fd8e0a0af591c144b43079685b8939e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260712T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:147da81e70b3f6ea49fd81159c62cee1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260713T150000
+SUMMARY:RFBRL #09 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #09 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2fc48cc5afffd69a0752f8393b94f279@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260714T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:dd464eada54388dd2e8675d9f4752f6c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+TRANSP:TRANSPARENT
+SUMMARY:Club Dinner to be announced
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Club Dinner to be announced\nSource s
+ napshot: June 25\, 2026. Confirm current details with the club.\nTime is u
+ nspecified: No time supplied. This date entry does not imply an all-day ac
+ tivity.\nWhenever there is a function in the Main Hall\, the indoor range 
+ is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:894ff6eae62216328f02822203649e3c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260716T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:7971f89af9befd923e8f915177211dd2@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260717T160000
+SUMMARY:CR DelSavio 200yd 4PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: CR DelSavio 200yd 4PM\nSource snapsho
+ t: June 25\, 2026. Confirm current details with the club.\nWhenever there 
+ is a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca9cb80ab22b337af8bf019895c1555@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260717T180000
+DTEND;TZID=America/New_York:20260717T210000
+SUMMARY:NYS Pistol License Class 6-9PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 6-9PM\nSourc
+ e snapshot: June 25\, 2026. Confirm current details with the club.\nWhenev
+ er there is a function in the Main Hall\, the indoor range is closed for s
+ afety.
+END:VEVENT
+BEGIN:VEVENT
+UID:e1f5bdff64eec9d2149a578555ba0b6b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+TRANSP:TRANSPARENT
+SUMMARY:NYS Pistol License Class 8-5PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 8-5PM\nSourc
+ e snapshot: June 25\, 2026. Confirm current details with the club.\nTime i
+ s unspecified: Start meridiem is unclear or range crosses midnight\; time 
+ left unspecified. This date entry does not imply an all-day activity.\nWhe
+ never there is a function in the Main Hall\, the indoor range is closed fo
+ r safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:051257e7a11d32326291ec54db1ab773@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260718T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:872a439cacd1870ce77dac87c42e4225@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260718T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:515e491930c0e3097e4a1053a581e93e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+TRANSP:TRANSPARENT
+SUMMARY:CR Top Gun Rifleman's
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: CR Top Gun Rifleman's\nSource snapsho
+ t: June 25\, 2026. Confirm current details with the club.\nTime is unspeci
+ fied: No time supplied. This date entry does not imply an all-day activity
+ .\nWhenever there is a function in the Main Hall\, the indoor range is clo
+ sed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0516091a2dded6c10dff81c03c90015e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260718T090000
+SUMMARY:X-Treem Challenge 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: X-Treem Challenge 9AM\nSource snapsho
+ t: June 25\, 2026. Confirm current details with the club.\nWhenever there 
+ is a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:4dee1fda21cab4aa577b19656d3f866f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260719T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:fe75b697c56c1a2450f97075fe8cb9d8@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260719T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2098f1d2b0443a870374c1e01e3a9b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260719T130000
+DTEND;TZID=America/New_York:20260719T143000
+SUMMARY:4H Shotgun Range 1:00-2:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 4H Shotgun Range 1:00-2:30PM\nSource 
+ snapshot: June 25\, 2026. Confirm current details with the club.\nWhenever
+  there is a function in the Main Hall\, the indoor range is closed for saf
+ ety.
+END:VEVENT
+BEGIN:VEVENT
+UID:49215009a23411b9ba677c6ca612d0d3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260720T150000
+SUMMARY:RFBRL #10 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #10 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:139ee5a7e3af41097116548fd593c1f1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260720T180000
+SUMMARY:NYS Pistol License Class 6PM till
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 6PM till\nSo
+ urce snapshot: June 25\, 2026. Confirm current details with the club.\nWhe
+ never there is a function in the Main Hall\, the indoor range is closed fo
+ r safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5f75be84dbf141fc4b557684355cd1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260721T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c027a34b643f28dff3197de736eae593@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260722T123000
+DTEND;TZID=America/New_York:20260722T143000
+SUMMARY:4H Shotgun Range 12:30-2:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 4H Shotgun Range 12:30-2:30PM\nSource
+  snapshot: June 25\, 2026. Confirm current details with the club.\nWheneve
+ r there is a function in the Main Hall\, the indoor range is closed for sa
+ fety.
+END:VEVENT
+BEGIN:VEVENT
+UID:280e92b6cb2576b9beee648cce1f3ca9@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260723T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd3ea5139bdf3396fae3e7ad823a752@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260725T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ca78d0893360f0eb424285b055c866@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260725T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe20197da27bd21382dc099551c485c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260725T090000
+SUMMARY:IBS 100yd 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: IBS 100yd 9AM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:438e8fcde1079e2ea364030f5041a99f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260726T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:832de7411b2b6e816472e34fe41434ef@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260726T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f80e2718fd6730960143e156b9d11f76@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260726T090000
+SUMMARY:RF Lollypop Challenge 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: RF Lollypop Challenge 9AM\nSource sna
+ pshot: June 25\, 2026. Confirm current details with the club.\nWhenever th
+ ere is a function in the Main Hall\, the indoor range is closed for safety
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:e17f16e8366e2772760cd3459353f681@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260726T130000
+DTEND;TZID=America/New_York:20260726T143000
+SUMMARY:4H Shotgun Range 1:00-2:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 4H Shotgun Range 1:00-2:30PM\nSource 
+ snapshot: June 25\, 2026. Confirm current details with the club.\nWhenever
+  there is a function in the Main Hall\, the indoor range is closed for saf
+ ety.
+END:VEVENT
+BEGIN:VEVENT
+UID:e8e089556b0b5fd48021da3635c6512c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260727T150000
+SUMMARY:RFBRL #11 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #11 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:3a15649f726995ba5d26fa0b9e706cdc@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260728T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:18ffd225024f26c6d190d4aa3aa10e67@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+TRANSP:TRANSPARENT
+SUMMARY:9MM Combat Challenge 5:30
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: 9MM Combat Challenge 5:30\nSource sna
+ pshot: June 25\, 2026. Confirm current details with the club.\nTime is uns
+ pecified: No unambiguous AM/PM time. This date entry does not imply an all
+ -day activity.\nWhenever there is a function in the Main Hall\, the indoor
+  range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b88915e451707bee669da5677da6de6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260730T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a42f5c4f7a4d2bb3f5055d61149bc5e7@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+TRANSP:TRANSPARENT
+SUMMARY:DEC HUNTER ED RIFLE 8-4PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: DEC HUNTER ED RIFLE 8-4PM\nSource sna
+ pshot: June 25\, 2026. Confirm current details with the club.\nTime is uns
+ pecified: Start meridiem is unclear or range crosses midnight\; time left 
+ unspecified. This date entry does not imply an all-day activity.\nWhenever
+  there is a function in the Main Hall\, the indoor range is closed for saf
+ ety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5a8de45865d1ea87e852e5743e7579e3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260801T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9cfb52212d697caeeb771fdf353b907d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260801T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5ba0c722298bedccf48a471513977d1d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260801T090000
+SUMMARY:CFL 100yd Score 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: CFL 100yd Score 9AM\nSource snapshot:
+  June 25\, 2026. Confirm current details with the club.\nWhenever there is
+  a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f604a0c14af22efe9b84a372fefa4be@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260802T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b452462a1bf0e9adf62178cf3091bbac@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260802T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:df67ca6d950aa2f459463861b0c6a4bb@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260802T130000
+DTEND;TZID=America/New_York:20260802T143000
+SUMMARY:4H Shotgun Range 1:00-2:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 4H Shotgun Range 1:00-2:30PM\nSource 
+ snapshot: June 25\, 2026. Confirm current details with the club.\nWhenever
+  there is a function in the Main Hall\, the indoor range is closed for saf
+ ety.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1093648bf3ec5e1e97fd9f2507b83c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260803T150000
+SUMMARY:RFBRL #12 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #12 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:e320656f5e6a3360fc2d922eb33ad53e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260804T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:087892fd69daa5808db4efae972250bb@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260804T150000
+SUMMARY:RFBRL #12 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #12 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:7d17560174138968c623b0a335b5c230@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260806T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:28dd458915027046c3dc9b6ea6293de0@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260807T180000
+DTEND;TZID=America/New_York:20260807T210000
+SUMMARY:NRA Pistol In Home Defense 6-9PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NRA Pistol In Home Defense 6-9PM\nSou
+ rce snapshot: June 25\, 2026. Confirm current details with the club.\nWhen
+ ever there is a function in the Main Hall\, the indoor range is closed for
+  safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9beb672977e6f7356f1a12eb65466182@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+TRANSP:TRANSPARENT
+SUMMARY:NRA Pistol In Home Defense 8-5PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NRA Pistol In Home Defense 8-5PM\nSou
+ rce snapshot: June 25\, 2026. Confirm current details with the club.\nTime
+  is unspecified: Start meridiem is unclear or range crosses midnight\; tim
+ e left unspecified. This date entry does not imply an all-day activity.\nW
+ henever there is a function in the Main Hall\, the indoor range is closed 
+ for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c8e89080733e346e1429725f685dabf7@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260808T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a80f959016ff55a8129de84ea35081e6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260808T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5a0adfe7de7365ccdaa7c3e9747ebd23@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260808T090000
+SUMMARY:CR Top Gun Rifleman's Scramble 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: CR Top Gun Rifleman's Scramble 9AM\nS
+ ource snapshot: June 25\, 2026. Confirm current details with the club.\nWh
+ enever there is a function in the Main Hall\, the indoor range is closed f
+ or safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1862a7cbef8442f3e933f59d14015c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260809T070000
+DTEND;TZID=America/New_York:20260809T110000
+SUMMARY:3D Archery 7-11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 3D Archery 7-11AM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6bde595701e53c2c20048b9cbeceb2@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260809T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:3408bfc420f1f5877f620dddd230d774@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260809T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b60b4d3902bceea828e7ad4f684e5fe9@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260809T130000
+DTEND;TZID=America/New_York:20260809T143000
+SUMMARY:4H Shotgun Range 1:00-2:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 4H Shotgun Range 1:00-2:30PM\nSource 
+ snapshot: June 25\, 2026. Confirm current details with the club.\nWhenever
+  there is a function in the Main Hall\, the indoor range is closed for saf
+ ety.
+END:VEVENT
+BEGIN:VEVENT
+UID:cebe3e64e40f982e2713c6b9816d5c83@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260810T150000
+SUMMARY:RFBRL #13 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #13 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:6faa9d1d42430efb564df151a99b0846@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260810T190000
+SUMMARY:BOD 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD 7PM\nSource snapshot: June 25\, 2
+ 026. Confirm current details with the club.\nWhenever there is a function 
+ in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b156a63f5e86d133cc5e697ead2bddf6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260811T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:eb6cdfee35eee5859b8125158e528134@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260812T190000
+SUMMARY:General Membership Mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: General Membership Mtg 7PM\nSource sn
+ apshot: June 25\, 2026. Confirm current details with the club.\nWhenever t
+ here is a function in the Main Hall\, the indoor range is closed for safet
+ y.
+END:VEVENT
+BEGIN:VEVENT
+UID:8f8da89ffdcfb323a61d5e6a7a5b2c03@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260813T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1e4005129ce785d41eeab2d89beceacc@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260814T160000
+SUMMARY:CF Miller Group 200 4PM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: CF Miller Group 200 4PM\nSource snaps
+ hot: June 25\, 2026. Confirm current details with the club.\nWhenever ther
+ e is a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:302db6eb7a7096784c3193b0cf02f6a2@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260815T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0870cf09591d69452f7680301691de1d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260815T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb6dd2c058387b461bffba511c819883@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260815T090000
+SUMMARY:RF 200yd Score 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: RF 200yd Score 9AM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d2b42f18d02cf6ab6f5fd90d4a43ac@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260816T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0208fdacc6f5d891834d5604fbb04fea@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260816T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:09f811281d6e8cdc689a6dabbe4c9ff5@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260816T130000
+DTEND;TZID=America/New_York:20260816T143000
+SUMMARY:4H Shotgun Range 1:00-2:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 4H Shotgun Range 1:00-2:30PM\nSource 
+ snapshot: June 25\, 2026. Confirm current details with the club.\nWhenever
+  there is a function in the Main Hall\, the indoor range is closed for saf
+ ety.
+END:VEVENT
+BEGIN:VEVENT
+UID:fa6574c3901bb6783e2948ba0a76b0b5@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260817T150000
+SUMMARY:RFBRL #14 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #14 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:26e3db110e23b87d93a7ac20934b8457@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260818T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca564ad2782ca716c7bd4a72382e9840@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260819T183000
+SUMMARY:Club Dinner 6:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Club Dinner 6:30PM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f75d9c7814bc4266a34b945bebb5939@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260820T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a0690340f78301011b71db18bf0e8a65@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+TRANSP:TRANSPARENT
+SUMMARY:VETERIANS PICNIC CONCORDIA CLUB
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: VETERIANS PICNIC CONCORDIA CLUB\nSour
+ ce snapshot: June 25\, 2026. Confirm current details with the club.\nTime 
+ is unspecified: No time supplied. This date entry does not imply an all-da
+ y activity.\nWhenever there is a function in the Main Hall\, the indoor ra
+ nge is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0e5b48e46da72d9f1616c4c44ee095de@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260822T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d323c3d036f682bd9dc87e3a4e3e53e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260822T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4c5b0d2d9323d34079385e84f8a44b7@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260823T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f5e9dd746b5022bd2586804b76ec09f6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260823T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2c4ff6c889564157b87e34984b4e62ed@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260824T150000
+SUMMARY:RFBRL #15 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #15 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2fc2e90a94b1f44ebe89295fa0f61e62@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260825T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b3de3225e969594b9eb5c45c44beaecf@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260827T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:74400ee10ee1582692ffc83291ae66ee@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260828T090000
+SUMMARY:IBS Early registration wkend 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: IBS Early registration wkend 9AM\nSou
+ rce snapshot: June 25\, 2026. Confirm current details with the club.\nWhen
+ ever there is a function in the Main Hall\, the indoor range is closed for
+  safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:93ac77dc1e03dabfa3eb9e3cc753b3d7@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260829T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:84f53861797cfe6a95f5d7dae2297902@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260829T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:107be07cbc0e5efa27c63d339f7fd943@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260829T090000
+SUMMARY:IBS 100yd for Score 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: IBS 100yd for Score 9AM\nSource snaps
+ hot: June 25\, 2026. Confirm current details with the club.\nWhenever ther
+ e is a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:6a91817106d5add7e4e6cbbfaf55bc93@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260830T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ba98f27fa0dd244b407806a6391f0d87@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260830T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:442d3e9f9b43a4b7c80e538d02388dae@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260830T090000
+SUMMARY:IBS 200yd 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: IBS 200yd 9AM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a5243005c94b3062b0cb903fceb6d4cf@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260831T150000
+SUMMARY:RFBRL #16 3PM
+CATEGORIES:League
+DESCRIPTION:Recovered calendar entry: RFBRL #16 3PM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d309c9a15eed5738382f5a580bf53ec@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260901T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:efe940e078cddeff6f2db4599bdd924b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260903T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a15d69c4441ad8f12ca0ae06315e6129@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+TRANSP:TRANSPARENT
+SUMMARY:DEC HUNTER ED BOW 8-4PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: DEC HUNTER ED BOW 8-4PM\nSource snaps
+ hot: June 25\, 2026. Confirm current details with the club.\nTime is unspe
+ cified: Start meridiem is unclear or range crosses midnight\; time left un
+ specified. This date entry does not imply an all-day activity.\nWhenever t
+ here is a function in the Main Hall\, the indoor range is closed for safet
+ y.
+END:VEVENT
+BEGIN:VEVENT
+UID:3c9288018129ea8a20601d883284725b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260905T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:8096dc5fc32455b71dd260768e4aaf3c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260905T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee609045dd17517183c55914af84548@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260906T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7e694abe3a59ce920dcb664a0ffb30b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260906T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:220da5d44ba2e0ae961e620e5cd5db2a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260907T190000
+SUMMARY:BOD 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD 7PM\nSource snapshot: June 25\, 2
+ 026. Confirm current details with the club.\nWhenever there is a function 
+ in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:92b075e29f35c15923a1fdd53aaa0078@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260908T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:07303547f9eac76f0538bcebb10d168f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260909T190000
+SUMMARY:General Membership Mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: General Membership Mtg 7PM\nSource sn
+ apshot: June 25\, 2026. Confirm current details with the club.\nWhenever t
+ here is a function in the Main Hall\, the indoor range is closed for safet
+ y.
+END:VEVENT
+BEGIN:VEVENT
+UID:98889d690e0642dbf9504389e398e5f8@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260910T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:648125d6af6c5ab2fb28b60cc0c5436e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260911T180000
+DTEND;TZID=America/New_York:20260911T210000
+SUMMARY:NRA Pistol Outside Home Defense 6-9PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NRA Pistol Outside Home Defense 6-9PM
+ \nSource snapshot: June 25\, 2026. Confirm current details with the club.\
+ nWhenever there is a function in the Main Hall\, the indoor range is close
+ d for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a168171773502fe061c41a4c33c83cc3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+TRANSP:TRANSPARENT
+SUMMARY:NRA Pistol Outside Home Defense 8-5PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NRA Pistol Outside Home Defense 8-5PM
+ \nSource snapshot: June 25\, 2026. Confirm current details with the club.\
+ nTime is unspecified: Start meridiem is unclear or range crosses midnight\
+ ; time left unspecified. This date entry does not imply an all-day activit
+ y.\nWhenever there is a function in the Main Hall\, the indoor range is cl
+ osed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c4ad4f56fc43edce87e223c34fabd5b1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260912T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:07ac99bf0ebd00fc8ed03c125ab88d14@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260912T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5153b4c93a3fe07a9bb638dda0e7b1eb@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260912T090000
+SUMMARY:IBS 200yd 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: IBS 200yd 9AM\nSource snapshot: June 
+ 25\, 2026. Confirm current details with the club.\nWhenever there is a fun
+ ction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:10a636890155787bd126c3fca9cacef3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260913T070000
+DTEND;TZID=America/New_York:20260913T110000
+SUMMARY:3D Archery 7-11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: 3D Archery 7-11AM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:298c5fe02f01d150f852260aab83702d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260913T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:72b722c61965e8686e1dac02cb134ac2@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260913T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:592601e367c4bb1e8f2f0d35b49a2407@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260915T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0112d68796036bfcc391168121e82ff6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260916T183000
+SUMMARY:Club Dinner 6:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Club Dinner 6:30PM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ade53a176521f735228baee459b7d58a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260917T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:4587cafa4f94fcc38c739519987fae56@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260918T180000
+DTEND;TZID=America/New_York:20260918T210000
+SUMMARY:NYS Pistol License Class 6-9PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 6-9PM\nSourc
+ e snapshot: June 25\, 2026. Confirm current details with the club.\nWhenev
+ er there is a function in the Main Hall\, the indoor range is closed for s
+ afety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b075f6ad42f8e2d2db14b840780bf529@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+TRANSP:TRANSPARENT
+SUMMARY:NYS Pistol License Class 8-5PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 8-5PM\nSourc
+ e snapshot: June 25\, 2026. Confirm current details with the club.\nTime i
+ s unspecified: Start meridiem is unclear or range crosses midnight\; time 
+ left unspecified. This date entry does not imply an all-day activity.\nWhe
+ never there is a function in the Main Hall\, the indoor range is closed fo
+ r safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:13c94bdef255bbcfb1f665190f42643f@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260919T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:73cfee895f7eb8147beb9679917914eb@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260919T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5954e87ab6dcbfeb32c5314e766f2372@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260919T090000
+SUMMARY:CF Schuetzenfest 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: CF Schuetzenfest 9AM\nSource snapshot
+ : June 25\, 2026. Confirm current details with the club.\nWhenever there i
+ s a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:eff6b35ff98c96c214ee98c9b18004a7@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260920T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:cf39d97e50d98c3c59e026d4fb625e86@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260920T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:702c5b963bcbf23328345fc07a027b58@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260920T090000
+SUMMARY:RF Bowling 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: RF Bowling 9AM\nSource snapshot: June
+  25\, 2026. Confirm current details with the club.\nWhenever there is a fu
+ nction in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:7bcd922f2006b87a266447400c5558ed@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260920T120000
+DTEND;TZID=America/New_York:20260920T170000
+SUMMARY:Hall Rental 12-5PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Hall Rental 12-5PM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1200fc0329c5bd3de8aa1fe44c9be445@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260921T180000
+SUMMARY:NYS Pistol License Class 6PM till
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 6PM till\nSo
+ urce snapshot: June 25\, 2026. Confirm current details with the club.\nWhe
+ never there is a function in the Main Hall\, the indoor range is closed fo
+ r safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a10b6894bb510fcbbb64d9841a61f1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260922T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:24470e0c27d1640a020d1b3078942e7b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260924T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:aca6f2dff38508332348f470054ff262@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260926T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2447cbf137bd8281f2c1210849e51e93@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260926T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:4e744b59a882a8cf612ff1be78ab1288@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260926T090000
+SUMMARY:CFL 200yd Score 9AM
+CATEGORIES:Matches
+DESCRIPTION:Recovered calendar entry: CFL 200yd Score 9AM\nSource snapshot:
+  June 25\, 2026. Confirm current details with the club.\nWhenever there is
+  a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf0b4aa0d0d74e1d64c19223f0d5d721@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260927T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:435b59fe9d42e3be199f6539bffac838@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260927T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:863d1a4544e3d6fb1d52722f5cb7aaff@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20260929T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f77a84b34a945d1bfc1e733531df86@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261001T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ca9a5d731d150dd83d1499719e4f7c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261003T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3d575178ae45cc249784ec71f7541a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261003T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:839ac42dbdc70969980bfc19c8a1fba6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261004T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ad10dcce7f484d409a27ff2ca82fe94@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261004T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:61acbf850dc4fb64306cffa7220f2aa1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261006T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a1a8161c69464023c5cb929e9ba681ce@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261008T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8e0e6a9d9486946fbf4e9b3ebe9386@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261010T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9b5182501b09a092355247e3b5fcda@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261010T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b953c017c18c4aa6a7859eeb6d2acae0@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261011T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:97bc1d5972209be88694aa5706ae55b1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261011T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d7fa405c769ef1d97b8b367590578695@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261012T190000
+SUMMARY:BOD 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD 7PM\nSource snapshot: June 25\, 2
+ 026. Confirm current details with the club.\nWhenever there is a function 
+ in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:847fef19f4c58913abb2d307a5c804b6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261013T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe472703133bff42ee9155e74040107@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261014T190000
+SUMMARY:General Membership Mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: General Membership Mtg 7PM\nSource sn
+ apshot: June 25\, 2026. Confirm current details with the club.\nWhenever t
+ here is a function in the Main Hall\, the indoor range is closed for safet
+ y.
+END:VEVENT
+BEGIN:VEVENT
+UID:7830943dc1f28e0e363396ab28c7feb3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261015T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c18766a9e1a77b2b8ee7dd63b45a9146@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261017T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c10a92935c7b4ee57eabd0caca2ebff6@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261017T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:332676a68acd74ec5514c5d0ede0f5b4@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261017T130000
+DTEND;TZID=America/New_York:20261017T170000
+SUMMARY:Hall Rental 1-5PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Hall Rental 1-5PM\nSource snapshot: J
+ une 25\, 2026. Confirm current details with the club.\nWhenever there is a
+  function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe55d86847ac221f4200733c73b5b28@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261018T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:116c2b0cc78f470679e05999a4fd97c4@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261018T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9feefb16bc930bbcfb3037ea3f5662f1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261020T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:db6c43c7baf318d8edbfe74b7675ccdb@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261021T183000
+SUMMARY:Club Dinner 6:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Club Dinner 6:30PM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:dc86db416570cb1657962d86a7459b4a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261022T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2a7d7835ebbb5dba4cf8fb1a1eba7155@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261024T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:398550e611759d5d897cd2747cec0ff8@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261024T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3f72fef9e6ccc979aace799609d1a9@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261025T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:4ad38f445eb144cd20cbc25f973c092e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261025T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:525f2fa226ea9468f9141b2207fde460@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261027T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:643cdc4be8ecceccffcb65a5aae29e8a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261029T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd7349e1fab88593a16c9800ae98032d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261103T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:80639b3fa7d142e543d84e44f33fe956@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261105T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:227acff44308b6ec710e1141ee649cf3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261107T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c476a043ce11023c34a1f4842e1cfc66@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261107T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:3d159283e356276c82901e4520219575@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261108T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2cfa6e2479d4b2ad4ec4fb0e2568a70e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261108T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5d71c6824578c2a1cb92dacc2e6b41@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261109T190000
+SUMMARY:BOD 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD 7PM\nSource snapshot: June 25\, 2
+ 026. Confirm current details with the club.\nWhenever there is a function 
+ in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ad89f201fb3520a6a7b216c26add8878@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261110T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4552843a36e7b011146ae677b11d3a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261111T190000
+SUMMARY:General Membership Mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: General Membership Mtg 7PM\nSource sn
+ apshot: June 25\, 2026. Confirm current details with the club.\nWhenever t
+ here is a function in the Main Hall\, the indoor range is closed for safet
+ y.
+END:VEVENT
+BEGIN:VEVENT
+UID:47ba8799c16b25daebb455f73b003748@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261112T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:13ef98a2f48d746fcc3f9551df459464@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261113T180000
+DTEND;TZID=America/New_York:20261113T210000
+SUMMARY:NYS Pistol License Class 6-9PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 6-9PM\nSourc
+ e snapshot: June 25\, 2026. Confirm current details with the club.\nWhenev
+ er there is a function in the Main Hall\, the indoor range is closed for s
+ afety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9710bd35f3097e5a74787cddefd28e93@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+TRANSP:TRANSPARENT
+SUMMARY:NYS Pistol License Class 8-5PM
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 8-5PM\nSourc
+ e snapshot: June 25\, 2026. Confirm current details with the club.\nTime i
+ s unspecified: Start meridiem is unclear or range crosses midnight\; time 
+ left unspecified. This date entry does not imply an all-day activity.\nWhe
+ never there is a function in the Main Hall\, the indoor range is closed fo
+ r safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:962b1220fe83d064617a827cd243d08c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261114T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1c497cf22926770b4629712531641a65@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261114T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:10227c2847f4b9910792a981d42908b0@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261115T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ca1d5d07a800ff60b70aafb33089ff75@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261115T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:7fe6ff7b952b4f8607c09790c01bff64@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261116T180000
+SUMMARY:NYS Pistol License Class 6PM till
+CATEGORIES:Classes
+DESCRIPTION:Recovered calendar entry: NYS Pistol License Class 6PM till\nSo
+ urce snapshot: June 25\, 2026. Confirm current details with the club.\nWhe
+ never there is a function in the Main Hall\, the indoor range is closed fo
+ r safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:936c3beea9831723e0b96c9cedd5d155@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261117T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f4bd7e61c010559876985ad9d22ef704@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261118T183000
+SUMMARY:Club Dinner 6:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Club Dinner 6:30PM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a256d657f4d9fd046278a31c565317b1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261119T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d4f4fca462451768ea4deea19d9a46ef@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261121T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:287a982d8a22b0292d7359ac5bdc2b8c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261121T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c2d0f7fd7336d912b7ad1a09353c9028@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261122T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:12eef0c95f9d90e20f087b2bc1f61bd5@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261122T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f443950e1a7f3105ba5144856f45b62b@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261124T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2946c7d7d3bd1b6d6b3857b339d0f1ac@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261126T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:376ad9dc3b16faec1b1458fb62e607ce@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261128T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:44769f5f92198139f329afb5e725a4c2@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261128T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:f4af581c2a952da05f9c7726433227f9@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261129T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d8b11106d925bc6e44019e5a987208e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261129T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:191a49921dee23e79189a04417e2d2d8@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261201T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d086b53e70d162d23b9d8904bc13a953@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261203T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:e228d462f7e05be561e8bf7a45744bd7@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261205T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:62057cf3a51143046aa171a95a08b6ec@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261205T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a750c6d0565ed1c40883542ed5266dae@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261206T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:de04d99fe2ac111d85cbb52c605953fd@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261206T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:92b54d8bd48dc4c3eb663118edacfcc1@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261207T190000
+SUMMARY:BOD 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD 7PM\nSource snapshot: June 25\, 2
+ 026. Confirm current details with the club.\nWhenever there is a function 
+ in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:4f304c3401c7ddc9cd4ec84587d88fe3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261208T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:8aa42996439074371b71e9b5ba2dbfb2@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261209T190000
+SUMMARY:General Membership Mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: General Membership Mtg 7PM\nSource sn
+ apshot: June 25\, 2026. Confirm current details with the club.\nWhenever t
+ here is a function in the Main Hall\, the indoor range is closed for safet
+ y.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b0ae1f84e835ce231bc006505b523c5@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261210T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:a454617844c177e07980039309ea861d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261212T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1b8fde050ef6d60f5d49e0ce7c9a09be@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261212T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:2deb2fc5fd6b8db4a2c7f83147fc14e3@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261213T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:cb93eac655938c2202174cb2da61b2df@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261213T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b79ebf3ae02618837ca9545068808a74@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261215T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:b66f6d162080ab5b54f9775901c88199@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261216T183000
+SUMMARY:Club Dinner 6:30PM TBA
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Club Dinner 6:30PM TBA\nSource snapsh
+ ot: June 25\, 2026. Confirm current details with the club.\nWhenever there
+  is a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:90e6a6fd4e3264ad90837f350eae8855@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261217T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:612a39cd84b39d666bdd10c86325cb5c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261219T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:0759dcabd6c3dc34462e306df3a1c719@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261219T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c8df39313d5509a969f1540e0c62c60d@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261220T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:8bd3d5bf9b4bcdfad52e44b27f9ceca2@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261220T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:78903284afc67b3636d196e48972a810@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261222T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:d8ed9ed6ebbcad9f0527ed16c57df77c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261224T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:ba25c56b3f99287aa45115b6b4727025@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261226T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:e0c36050367211bd80640cccbdc6c2d5@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261226T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:7223dbd45de1d82cde6c4b74d603f287@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261227T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd02f6f722d760bcd79a66d66a2b756@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261227T110000
+SUMMARY:Trap 11AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Trap 11AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:bf79981d145fe5aada2e7d1e48edb45c@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261229T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:fcd7479fdecc763cac53cd50cc0e91c0@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20261231T090000
+SUMMARY:Skeet 9AM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Skeet 9AM\nSource snapshot: June 25\,
+  2026. Confirm current details with the club.\nWhenever there is a functio
+ n in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c751a65943bd5a1b4f9c87fd9100b0cd@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20270111T190000
+SUMMARY:BOD 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD 7PM\nSource snapshot: June 25\, 2
+ 026. Confirm current details with the club.\nWhenever there is a function 
+ in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:6462c4dbbd41d805516d76220334b11a@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20270113T190000
+SUMMARY:Gen Mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: Gen Mtg 7PM\nSource snapshot: June 25
+ \, 2026. Confirm current details with the club.\nWhenever there is a funct
+ ion in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:303f02b6307860f12cb16c3c9dafa873@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20270120T183000
+SUMMARY:Club Dinner 6:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Club Dinner 6:30PM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:9ae05ec379f1f9cc2702738193b838ae@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20270208T190000
+SUMMARY:BOD 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: BOD 7PM\nSource snapshot: June 25\, 2
+ 026. Confirm current details with the club.\nWhenever there is a function 
+ in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:c7ef2310f4e525fde310e4b99869d54e@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20270210T190000
+SUMMARY:Gen Mtg 7PM
+CATEGORIES:Meetings
+DESCRIPTION:Recovered calendar entry: Gen Mtg 7PM\nSource snapshot: June 25
+ \, 2026. Confirm current details with the club.\nWhenever there is a funct
+ ion in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d6e903fd8f408421c151c104c3c5558@pine-tree-club.local
+DTSTAMP:20260625T075302Z
+DTSTART;TZID=America/New_York:20270217T183000
+SUMMARY:Club Dinner 6:30PM
+CATEGORIES:Club
+DESCRIPTION:Recovered calendar entry: Club Dinner 6:30PM\nSource snapshot: 
+ June 25\, 2026. Confirm current details with the club.\nWhenever there is 
+ a function in the Main Hall\, the indoor range is closed for safety.
+END:VEVENT
+END:VCALENDAR

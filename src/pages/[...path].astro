@@ -6,7 +6,10 @@ export const prerender = false;
 let page;
 const requestedPath = decodeURIComponent(Astro.params.path || 'index.html');
 {
-  const path = requestedPath;
+  const alias = ['original-home','original-home.html'].includes(requestedPath) ? 'index.html' : requestedPath;
+  // Astro normalizes .html/.htm suffixes when matching extension routes.
+  const path = recovered.find(entry => [alias, alias + '.html', alias + '.htm'].includes(entry.data.path))?.data.path || alias;
+  if(path.startsWith('club-content/')) { const result=await getEmDashEntry('club_content',path.slice(13)); if(result.error)throw result.error; if(result.entry){const slug=result.entry.slug;return Astro.redirect(slug.startsWith('news-')?`/news/${slug.slice(5)}/`:`/${slug}/`,302);} }
   // EmDash's View/Preview links use the collection URL pattern. Preserve the
   // historic public path and any signed preview query when following them.
   if (path.startsWith('pages/')) {

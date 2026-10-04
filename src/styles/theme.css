@@ -1,0 +1,63 @@
+/*
+  Pine Tree Rifle Club: Tailwind v4 theme
+  Import from src/styles/global.css:
+    @import "tailwindcss";
+    @import "./theme.css";
+  Load fonts in the <head> of BaseLayout.astro:
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:wght@400;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Atkinson+Hyperlegible:wght@400;700&family=Caveat:wght@600&display=swap" rel="stylesheet">
+*/
+
+@theme {
+  /* Colors */
+  --color-pine: #23432F;         /* primary: top bar, buttons, headings, footer */
+  --color-paper: #F6F1E6;        /* page background */
+  --color-panel: #EDE5D3;        /* tinted panels, inner-page header band */
+  --color-card: #FFFDF8;         /* cards, inputs, secondary buttons */
+  --color-photo-mat: #FBF8F1;    /* frame behind framed photos */
+  --color-ink: #1F2A22;          /* body text */
+  --color-muted: #4A5249;        /* secondary text (passes 4.5:1 on paper) */
+  --color-brass: #806125;        /* eyebrows, dates, active-nav underline */
+  --color-rule: #CFC5AE;         /* hairlines */
+  --color-rule-soft: #E4DCC8;    /* row dividers */
+  --color-field: #8C8574;        /* form input borders */
+  --color-footer-rule: #4E6B58;
+  --color-footer-muted: #D9CBA4;
+  --color-highlight: #FBEFC9;    /* "found my name" row highlight */
+  --color-success: #E3EBDD;      /* confirmation / my-result card */
+  --color-polaroid-ink: #2B2B2B;
+
+  /* Event categories (white text on all of these) */
+  --color-cat-league: #23432F;
+  --color-cat-crew: #6B5A2E;
+  --color-cat-meeting: #3F5378;
+  --color-cat-match: #8A3B2B;
+  --color-cat-class: #2E6464;
+
+  /* Type */
+  --font-display: "Libre Caslon Text", Georgia, serif;   /* headings, numerals */
+  --font-serif: "Source Serif 4 Variable", Georgia, serif;        /* body copy */
+  --font-ui: "Atkinson Hyperlegible", system-ui, sans-serif; /* nav, buttons, labels, forms */
+  --font-hand: "Caveat", cursive;                        /* polaroid captions only */
+
+  /* Layout */
+  --container-site: 1200px;
+  --radius-none: 0;              /* everything is square-cornered */
+
+  /* Polaroid shadow */
+  --shadow-polaroid: 0 2px 3px rgba(40,30,10,.18), 0 10px 24px rgba(40,30,10,.12);
+  --shadow-polaroid-stack: 0 2px 3px rgba(40,30,10,.15), 0 8px 18px rgba(40,30,10,.1);
+  --shadow-lightbox: 0 20px 60px rgba(0,0,0,.5);
+}
+
+@layer base {
+  html { background: var(--color-paper); color: var(--color-ink); -webkit-font-smoothing: antialiased; }
+  body { font-family: var(--font-serif); font-size: clamp(19px, 2.2vw, 21px); line-height: 1.6; }
+  a { color: var(--color-pine); text-decoration: underline; text-underline-offset: 3px; }
+  a:hover { color: var(--color-brass); }
+  :focus-visible { outline: 3px solid var(--color-brass); outline-offset: 2px; }
+  @media print { [data-noprint] { display: none !important; } }
+}
+
+/* Large-text mode (optional site-wide toggle; persist in localStorage) */
+html.large-text { zoom: 1.15; }

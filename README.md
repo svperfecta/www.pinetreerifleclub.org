@@ -82,3 +82,67 @@ GitHub stores the source; hosting uses Cloudflare Workers. GitHub Pages could se
 See [recovery notes](docs/recovery.md). Some originally linked files were not available from any recovered source. They are listed on `missing-content.html`, and missing images are explicitly marked. No replacement photographs or missing content were invented.
 
 The original fixed-width layouts are retained for restoration fidelity. Automated accessibility checks do not replace keyboard, screen-reader and document review. Older schedules and reports are historical; the club should confirm current announcements and contacts before launch.
+
+## New theme and content editing
+
+The new homepage is at `/`. The original homepage remains at `/index.html`
+(and `/original-home.html`); the offline export uses `/original-home.html` for
+that preserved rendering. All other recovered URLs remain available through
+**All recovered pages** in the footer.
+
+The theme uses Tailwind v4, shared `src/layouts/SiteLayout.astro`, and locally
+bundled fonts. Colors and typography live in `src/styles/theme.css`; responsive
+components live in `src/styles/global.css` and `src/components/ThemePage.astro`.
+The design handoff's brass color was slightly darkened for readable contrast.
+
+In EmDash, **Club content** contains six new section pages and three recovered
+announcements. Their HTML bodies, titles and summaries are editable. New news
+entries use a slug beginning `news-` (for example `news-summer-meeting`); the
+public URL becomes `/news/summer-meeting/`. Home and News read published CMS
+entries. Original publication dates are unknown and are explicitly described
+as recovery dates. Do not present these as newly published announcements.
+
+For an existing local database, stop the dev server and import only the new
+collection (find the SQLite database inside `.wrangler/state/v3/d1/`):
+
+```sh
+npx emdash seed seed/theme.json --database PATH_TO_LOCAL_SQLITE --on-conflict skip
+npm run dev -- --host 127.0.0.1 --port 4321
+```
+
+`skip` preserves existing edits. Fresh databases use the full `seed/seed.json`.
+`node scripts/seed-theme.mjs` regenerates both seeds from the checked-in
+recovery-derived theme content. Do not import with `update` into an edited CMS
+unless you intend to replace those entries. Run this generator after the
+legacy content migration, which regenerates the full seed.
+
+### Calendar, scores, photos
+
+- `/events/` filters the recovered schedule by month. Its downloadable
+  `/assets/calendars/club-calendar.ics` can be imported into Google Calendar.
+  Regenerate with `node scripts/convert-calendar.mjs`; review ambiguous times
+  in `docs/calendar-review.json`. A live Google Calendar feed is not configured.
+- `/scores/` offers league, week and name filters and printing. Data comes from
+  the recovered 2025–2026 pistol league, not a live Google Sheet. Regenerate
+  `src/data/scores.json` with `node scripts/prepare-theme-data.mjs`.
+  Averages exclude nonnumeric absence marks; original X counts remain available
+  in the linked original table.
+- `/photos/` explains the gallery recovery gap and links the original event
+  photographer. No article images, flyers or logos have been repurposed into
+  albums. Album recovery and a CMS photo upload workflow remain to be built.
+- Contact uses real phone, address and directions. No unconfigured contact form
+  pretends to send mail.
+
+### Offline snapshot
+
+`npm run build:offline` produces `_site` with the new theme, scripts, fonts,
+calendar, and all recovered pages. Serve it at the root of a local HTTP server:
+
+```sh
+python3 -m http.server 8080 --directory _site
+```
+
+No network is needed to browse it. External destination links require network
+access. The offline build uses checked-in content snapshots; CMS edits are not
+exported automatically. It targets root hosting, matching Cloudflare, rather
+than a GitHub Pages project subpath.

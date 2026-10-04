@@ -1,0 +1,18 @@
+---
+import ThemePage from './ThemePage.astro';
+import content from '../data/theme-content.json';
+import { getEmDashEntry, getEmDashCollection } from 'emdash';
+const { slug } = Astro.props;
+let cmsPage, cmsNewsList;
+if (content.pages[slug]) {
+  const result = await getEmDashEntry('club_content', slug);
+  if (result.error) throw result.error;
+  cmsPage = result.entry?.data;
+}
+if (slug === 'home' || slug === 'news') {
+  const result = await getEmDashCollection('club_content', { limit: 100 });
+  if (result.error) throw result.error;
+  cmsNewsList = result.entries.filter(entry => entry.slug.startsWith('news-')).map(entry => ({ ...entry.data, slug: entry.slug.slice(5) }));
+}
+---
+<ThemePage slug={slug} cmsPage={cmsPage} cmsNewsList={cmsNewsList}/>

@@ -43,6 +43,9 @@ async function worker() {
     page.on('request', onRequest);
     page.on('response', onResponse);
     await page.goto(new URL(file.split('/').map(encodeURIComponent).join('/'), base).href, { waitUntil: 'networkidle' });
+    await page.evaluate(() => { for (const img of document.images) img.loading = 'eager'; });
+    await page.evaluate(async () => { await Promise.all([...document.images].map(img => img.decode().catch(() => {}))); });
+    await page.waitForLoadState('networkidle');
     const seo = await page.evaluate(() => ({
       title: document.title,
       description: document.querySelector('meta[name="description"]')?.content,
