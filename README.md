@@ -34,6 +34,8 @@ The encryption key belongs in the ignored `.env` file. Keep a private backup; ne
 
 Edit published content through EmDash. The initial `body` field contains HTML to preserve the recovered tables and typography; migration to structured components is a later step. The shared layout stays in Astro. Seed files initialize a new database and do not overwrite existing content on subsequent deployments.
 
+CMS View/Preview links redirect to each entry's original public path. Static export routes are generated separately in the ignored `.offline-source/` directory; the live CMS routes always render on the server.
+
 Add assets under `src/assets/` and register their public paths in `src/data/assetMap.json`. `public/` is generated, ignored, and rebuilt automatically. Original paths are preserved so archived links remain useful.
 
 ## Offline restoration and checks

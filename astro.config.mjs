@@ -7,6 +7,7 @@ import { d1, r2 } from '@emdash-cms/cloudflare';
 const offline = process.env.OFFLINE_EXPORT === '1';
 export default defineConfig({
   output: offline ? 'static' : 'server',
+  srcDir: offline ? './.offline-source' : './src',
   outDir: offline ? './.offline-build' : './dist',
   build: { format: 'directory' },
   ...(offline ? {} : { adapter: cloudflare({ imageService: 'passthrough' }) }),

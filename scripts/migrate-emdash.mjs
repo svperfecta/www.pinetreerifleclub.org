@@ -44,9 +44,9 @@ const fields = [
   ['title', 'Title', 'string'], ['description', 'Description', 'text'], ['path', 'Original URL path', 'string'],
   ['body', 'Recovered HTML content', 'text'], ['head', 'Page styles', 'text'], ['body_class', 'Compatibility classes', 'string'],
   ['home', 'Homepage', 'boolean'], ['has_heading', 'Content includes H1', 'boolean'], ['historical', 'Historical content', 'boolean'],
-].map(([slug, label, type]) => ({ slug, label, type, required: slug === 'title' || slug === 'path', ...(slug === 'path' ? { indexed: true, unique: true } : {}) }));
+].map(([slug, label, type]) => ({ slug, label, type, required: slug === 'title' || slug === 'path', ...(slug === 'title' ? { searchable: true } : {}), ...(slug === 'path' ? { indexed: true, unique: true } : {}) }));
 const seed = { version: '1', meta: { name: 'Pine Tree Rifle Club restoration' }, settings: { title: 'Pine Tree Rifle Club', timezone: 'America/New_York' },
-  collections: [{ slug: 'pages', label: 'Pages', labelSingular: 'Page', titleField: 'title', routable: true, supports: ['drafts', 'revisions', 'scheduling', 'search', 'seo'], fields }],
+  collections: [{ slug: 'pages', label: 'Pages', labelSingular: 'Page', titleField: 'title', urlPattern: '/pages/{slug}', routable: true, supports: ['drafts', 'revisions', 'preview', 'scheduling', 'search', 'seo'], fields }],
   content: { pages: entries } };
 await fs.mkdir('seed', { recursive: true }); await fs.mkdir('src/content', { recursive: true }); await fs.mkdir('src/components', { recursive: true });
 await fs.writeFile('seed/seed.json', JSON.stringify(seed, null, 2) + '\n');

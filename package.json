@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node scripts/prepare-assets.mjs && astro build",
     "dev": "node scripts/prepare-assets.mjs && astro dev",
-    "build:offline": "node scripts/prepare-assets.mjs && OFFLINE_EXPORT=1 astro build && node scripts/finish-offline.mjs",
+    "build:offline": "node scripts/prepare-assets.mjs && node scripts/prepare-offline.mjs && OFFLINE_EXPORT=1 astro build && node scripts/finish-offline.mjs",
     "check": "python3 scripts/check_site.py _site",
     "validate": "html-validate \"_site/**/*.html\" \"_site/**/*.htm\"",
     "audit": "node scripts/audit.mjs",

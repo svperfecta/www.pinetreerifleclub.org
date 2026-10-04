@@ -1,8 +1,8 @@
 ---
 import header from '../components/home-header.html?raw';
-const { page } = Astro.props;
+const { page, requestPath = page.path } = Astro.props;
 const route = '/' + page.path;
-const directory = page.path.split('/').slice(0, -1);
+const directory = requestPath.split('/').slice(0, -1);
 const relative = (target) => '../'.repeat(directory.length) + target;
 const origin = import.meta.env.SITE_URL || Astro.url.origin + '/';
 const absolute = (target) => new URL(target, origin).href;
