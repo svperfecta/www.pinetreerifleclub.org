@@ -2,6 +2,10 @@
 
 The recovery combines the June 25, 2026 captures with older captures and files surviving on the original underlying hosting account. Untouched source bytes and capture inventories are retained under `recovery/`; the published website has no dependencies on either source host.
 
+`recovery/originals/` contains the unmodified bytes of every recovered source file. Historical image versions are separate in `recovery/image-captures/`. These are committed to GitHub independently of the imported website and are never overwritten by the import or redesign scripts. This is the full recovered archive, not a claim that unavailable files from the lost host were recovered.
+
+Verify archive integrity with `python3 scripts/verify_recovery.py`. `recovery/SHA256SUMS` records each preserved file's SHA-256 digest.
+
 - 278 files recovered.
 - All 179 unique paths in the archive inventory recovered.
 - All 16 indexed historical image captures preserved with timestamps and hashes.
